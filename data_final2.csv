@@ -1,0 +1,521 @@
+	brewery_type	name	street	city	postal_code	phone	yelp_rating	yelp_review_count
+0	brewpub	LAB Brewing Co / Twisted Oak Tavern	30105 Agoura Rd	Agoura Hills	91301-2003	8187350091	4.0	397
+1	brewpub	Ladyface Ale Companie	29281 Agoura Rd	Agoura Hills	91301-2597	8184774566	3.5	959
+2	micro	Alameda Island Brewing Company	1716 Park St	Alameda	94501-1416	5102178885	4.5	299
+3	micro	Almanac Beer Company	651B W Tower Ave	Alameda	94501-5047	4159326531	4.5	34
+4	micro	Faction Brewing Co	2501 Monarch St Ste 200	Alameda	94501-5098	5105232739	4.5	476
+5	brewpub	Junction Brewery & Grill	110 W American Canyon Rd	American Canyon	94503-4196	7076492285	3.5	240
+6	micro	Back Street Brewery & Tasting Room	1884 S Santa Cruz St	Anaheim	92805-6726	6572364050	4.5	183
+7	micro	Anaheim Brewery	336 S Anaheim Blvd	Anaheim	92805-3830	7147801888	4.0	298
+8	planning	Ballast Point Brewing Company		Anaheim	92802-2294		3.0	310
+9	planning	Ballast Point Brewing Company		Anaheim	92802-2294		3.5	2156
+10	planning	Ballast Point Brewing Company		Anaheim	92802-2294		4.0	1808
+11	planning	Ballast Point Brewing Company		Anaheim	92802-2294		4.0	1808
+12	large	Ballast Point Brewing Company	110 N Marina Dr	Long Beach	90803-4601	8586952739	3.0	310
+13	large	Ballast Point Brewing Company	110 N Marina Dr	Long Beach	90803-4601	8586952739	3.5	2156
+14	large	Ballast Point Brewing Company	110 N Marina Dr	Long Beach	90803-4601	8586952739	4.0	1808
+15	large	Ballast Point Brewing Company	110 N Marina Dr	Long Beach	90803-4601	8586952739	4.0	1808
+16	large	Ballast Point Brewing Company	9045 Carroll Way	San Diego	92121-2405	8586952739	3.0	310
+17	large	Ballast Point Brewing Company	9045 Carroll Way	San Diego	92121-2405	8586952739	3.5	2156
+18	large	Ballast Point Brewing Company	9045 Carroll Way	San Diego	92121-2405	8586952739	4.0	1808
+19	large	Ballast Point Brewing Company	9045 Carroll Way	San Diego	92121-2405	8586952739	4.0	1808
+20	large	Ballast Point Brewing Company	7606 Trade St	San Diego	92121-2405	8586952739	3.0	310
+21	large	Ballast Point Brewing Company	7606 Trade St	San Diego	92121-2405	8586952739	3.5	2156
+22	large	Ballast Point Brewing Company	7606 Trade St	San Diego	92121-2405	8586952739	4.0	1808
+23	large	Ballast Point Brewing Company	7606 Trade St	San Diego	92121-2405	8586952739	4.0	1808
+24	micro	Bottle Logic Brewing	1072 N Armando St	Anaheim	92806-2605	714660	4.5	695
+25	planning	Brewheim Brewing Company		Anaheim	92806		5.0	85
+26	micro	Bruery Terreux	1174 N Grove St	Anaheim	92806-2129	7149966258	4.5	228
+27	micro	Legends Craft Brewery	1301 S Lewis St	Anaheim	92805-6431	8883270202	4.5	176
+28	brewpub	JT Schmids Restaurant & Brewery	2610 E Katella Ave	Anaheim	92806-5903	7146349200	3.0	667
+29	brewpub	Phantom Ales	1211 N Las Brisas St	Anaheim	92806-1823	7146309463	4.5	450
+30	micro	Mt Lowe Brewing Company	150 E Saint Joseph St	Arcadia	91006-2851	6262447593	4.5	360
+31	brewpub	Figueroa Mountain Brewing - Arroyo Grande	1462 E Grand Ave	Arroyo Grande	93420-2448	8058869275	4.0	340
+32	micro	Dead Oak Brewing Company	5925 Entrada Ave	Atascadero	93422-4223	6023327027	5.0	33
+33	micro	Tent City Beer Company	6760 El Camino Real	Atascadero	93422-4205	8054606454	4.5	75
+34	brewpub	Auburn Alehouse	289 Washington St	Auburn	95603-5036	5308852537	4.0	1049
+35	brewpub	Tap and Vine	907 Lincoln Way	Auburn	95603	5308898463	4.0	262
+36	micro	Crooked Lane Brewing Co	536 Grass Valley Hwy	Auburn	95603-3807	5306137434	4.5	130
+37	micro	Catalina Island Brew House	417 Crescent Ave	Avalon	90704	3105906905	4.5	260
+38	planning	Great Change Brewing		Bakersfield	93313	6195170736	4.5	26
+39	brewpub	Lengthwise Brewing Co	7700 District Blvd	Bakersfield	93313-4861	6618362537	4.5	357
+40	brewpub	Temblor Brewing Company	3200 Buck Owens Blvd Ste 200	Bakersfield	93308-6376	6614894855	4.0	516
+41	micro	Brew Rebellion	33 S San Gorgonio Ave	Banning	92220-6001	9519074844	4.0	20
+42	micro	Brew Rebellion	195 N Del Rosa Dr	San Bernardino	92408	9519074844	4.0	20
+43	micro	Campbell Brewing Co	200 E Campbell Ave	Campbell	95008-2010	4088662699	2.5	400
+44	micro	Campbell Brewing Co	200 E Campbell Ave	Campbell	95008-2010	4088662699	2.5	400
+45	micro	Campbell Brewing Co	200 E Campbell Ave	Campbell	95008-2010	4088662699	2.5	400
+46	micro	Campbell Brewing Co	200 E Campbell Ave	Campbell	95008-2010	4088662699	2.5	400
+47	micro	Angry Horse Brewing	603 W Whittier Blvd	Montebello	90640-5235	3235300015	4.0	102
+48	micro	Angry Horse Brewing	603 W Whittier Blvd	Montebello	90640-5235	3235300015	4.0	102
+49	micro	Angry Horse Brewing	603 W Whittier Blvd	Montebello	90640-5235	3235300015	4.0	102
+50	micro	Angry Horse Brewing	603 W Whittier Blvd	Montebello	90640-5235	3235300015	4.0	102
+51	regional	Fieldwork Brewing Co	1160 6th St	Berkeley	94710-1247	5108981203	4.5	510
+52	micro	The Rare Barrel	940 Parker St	Berkeley	94710	5109846585	4.5	308
+53	micro	Gilman Brewing Company	912 Gilman St	Berkeley	94710-1424		4.5	127
+54	micro	Hoi Polloi Brewpub and Beat Lounge	1763 Alcatraz Ave	Berkeley	94703	5108587334	4.5	176
+55	brewpub	Jupiter	2181 Shattuck Ave	Berkeley	94704-1308	5108438277	4.0	3043
+56	brewpub	Triple Rock Brewery and Alehouse	1920 Shattuck Ave	Berkeley	94704-1022	5108432739	5.0	17
+57	regional	Trumer Brewery	1404 4th St	Berkeley	94710-1323	5105261160	4.5	44
+58	brewpub	Big Bear Lake Brewing Co	40827 Stone Rd	Big Bear Lake	92315	9098780283	3.5	1390
+59	brewpub	Big Bear Mountain Brewery	40260 Big Bear Blvd	Big Bear Lake	92315	9098662337	3.0	475
+60	micro	Mountain Rambler Brewery	186 S Main St	Bishop	93514-3415	7602581348	4.5	327
+61	micro	Mad River Brewing Co	101 Taylor Way	Blue Lake	95525	7076684151	4.0	152
+62	brewpub	TAPS Fish House and Brewery - Brea	101 E Imperial Hwy	Brea	92821-4924	7142570101	4.0	2255
+63	brewpub	BJs Restaurant & Brewery - Brea	600 Brea Mall Dr	Brea	92821-5764	7149902095	3.0	890
+64	micro	Firestone Walker Barrelworks	620 McMurray Rd	Buellton	93427-2511	8056861557	4.0	612
+65	regional	Figueroa Mountain Brewing	45 Industrial Way	Buellton	93427-9565	8056942252	4.5	298
+66	brewpub	Brewery At Simmzys Burbank	3000 W Olive Ave	Burbank	91505-4537	8189622500	4.0	576
+67	brewpub	Gordon Biersch Brewery Restaurant - Burbank	145 S San Fernando Blvd	Burbank	91502-1322	8185695240	4.5	145
+68	micro	Henson Brewing		Burbank	91504		4.0	39
+69	micro	Lincoln Beer Company	3083 N Lima St	Burbank	91504-2013	8186874206	4.5	200
+70	micro	Verdugo West Brewing Company	156 W Verdugo Ave	Burbank	91502-2132	8188415040	4.0	82
+71	brewpub	Steelhead Brewing Co - Burlingame Station	333 California Dr	Burlingame	94010-4114	6503446050	3.0	754
+72	brewpub	Johnny's Calistoga / Mud City Brews	1457 Lincoln Ave	Calistoga	94515	7079425938	4.0	817
+73	brewpub	Napa Valley Brewing Co/ Calistoga Inn	1250 Lincoln Ave	Calistoga	94515-1741	7079424101	4.5	105
+74	planning	Brewery in Planning - Camarillo, CA		Camarillo	93012-9406	8054077641	4.5	482
+75	brewpub	Institution Ale Company	3841 Mission Oaks Blvd	Camarillo	93012-5036	8054823777	4.5	482
+76	micro	Sante Adairius Rustic Ales	103 Kennedy Dr	Capitola	95010-3641	8313454867	4.5	166
+77	micro	Rouleur Brewing Company	5840 El Camino Real Ste 101	Carlsbad	92008-8804	4422445111	4.5	74
+78	brewpub	Karl Strauss Brewing Co - Carlsbad	5801 Armada Dr	Carlsbad	92008-4609	7604312739	4.0	1347
+79	planning	Papa Marce's Cerveceria		Carlsbad	92008	8584146976	5.0	28
+80	regional	Pizza Port - Bressi Ranch	2730 Gateway Rd	Carlsbad	92009-1730	7607071655	3.5	541
+81	regional	Pizza Port Carlsbad	571 Carlsbad Village Dr	Carlsbad	92008-2304	7607207007	3.5	1908
+82	micro	Island Brewing Co	5049 6th St	Carpinteria	93013-2001	8057458272	4.5	231
+83	brewpub	Rincon Brewery	5065 Carpinteria Ave	Carpinteria	93013-2046	8056846044	4.0	345
+84	planning	Teeccino Brewing Company		Carpinteria	93013-2905	8059660999	5.0	55
+85	micro	British Bulldog Brewery	14540 Camaren Park Dr	Chico	95973-8835	5308928759	4.0	237
+86	regional	Sierra Nevada Brewing Co	1075 E 20th St	Chico	95928-6722	5308933520	4.0	991
+87	micro	Chula Vista Brewery	294 Third Ave	Chula Vista	91910-2701	6196168806	4.0	75
+88	micro	Chula Vista Brewery	294 Third Ave	Chula Vista	91910-2701	6196168806	4.0	75
+89	micro	Chula Vista Brewery	294 Third Ave	Chula Vista	91910-2701	6196168806	4.0	75
+90	micro	Chula Vista Brewery	294 Third Ave	Chula Vista	91910-2701	6196168806	4.0	75
+91	micro	Novo Brazil Brewing Company	901 Lane Ave # 100	Chula Vista	91914-3501	6198694274	4.0	215
+92	micro	Novo Brazil Brewing Company	901 Lane Ave # 100	Chula Vista	91914-3501	6198694274	4.0	215
+93	micro	Novo Brazil Brewing Company	901 Lane Ave # 100	Chula Vista	91914-3501	6198694274	4.0	215
+94	micro	Novo Brazil Brewing Company	901 Lane Ave # 100	Chula Vista	91914-3501	6198694274	4.0	215
+95	micro	Thr3e Punks Ale	259 Third Ave	Chula Vista	91910-2721	6198579092	4.5	66
+96	micro	Thr3e Punks Ale	259 Third Ave	Chula Vista	91910-2721	6198579092	4.5	66
+97	micro	Thr3e Punks Ale	259 Third Ave	Chula Vista	91910-2721	6198579092	4.5	66
+98	micro	Thr3e Punks Ale	259 Third Ave	Chula Vista	91910-2721	6198579092	4.5	66
+99	planning	Brewery in Planning - Claremont		Claremont	91711		4.5	331
+100	planning	Brewery In Planning - Claremont		Claremont	91711-1764		4.5	331
+101	planning	Two Dude Brew		Clearlake	95422-8159	7075337600	3.5	175
+102	micro	559 Local Brewing	608 4th St	Clovis	93612-1183	5594731875	4.0	64
+103	brewpub	Riley's Brew Pub	2674 Owens Mountain Pkwy Ste 104	Clovis	93611-9588	5598622925	4.0	264
+104	micro	Zone 9 Brewing Company	1450 Tollhouse Rd Ste 105	Clovis	93611-0503	5592600539	5.0	29
+105	regional	Coronado Brewing Co	170 Orange Ave	Coronado	92118-1409	6194374452	4.0	375
+106	regional	Coronado Brewing Co	170 Orange Ave	Coronado	92118-1409	6194374452	4.0	375
+107	regional	Coronado Brewing Co	170 Orange Ave	Coronado	92118-1409	6194374452	4.0	375
+108	regional	Coronado Brewing Co	170 Orange Ave	Coronado	92118-1409	6194374452	4.0	375
+109	brewpub	Main Street Brewery	493 N Main St	Corona	92880-2042	9513711471	4.0	235
+110	micro	Stone Church Brewing	2785 Cabot Dr Ste 160	Corona	92883-7388	3105676582	4.5	125
+111	brewpub	TAPS Fish House and Brewery - Corona	2745 Lakeshore Dr	Corona	92883-7367	9512775800	4.0	1140
+112	micro	Alosta Brewing Co	692 Arrow Grand Cir	Covina	91722-2122	9094558707	4.5	152
+113	brewpub	BJs Restaurant & Brewery - West Covina	2917 E Eastland Ctr Dr	West Covina	91791-1603	6268580054	3.0	969
+114	brewpub	BJs Restaurant & Brewery - West Covina	2917 E Eastland Ctr Dr	West Covina	91791-1603	6268580054	3.0	969
+115	brewpub	BJs Restaurant & Brewery - West Covina	2917 E Eastland Ctr Dr	West Covina	91791-1603	6268580054	3.0	969
+116	brewpub	BJs Restaurant & Brewery - West Covina	2917 E Eastland Ctr Dr	West Covina	91791-1603	6268580054	3.0	969
+117	brewpub	Port O'Pints Brewing Co.	1215 Northcrest Dr	Crescent City	95531-2320	7074601154	5.0	81
+118	brewpub	Seaquake Brewing	400 Front St	Crescent City	95531-4369	7074654444	4.5	290
+119	planning	Brewery in Planning - Culver City		Culver City	90230-4108		4.0	241
+120	planning	Brewery In Planning - Daly City		Daly City	94015		2.5	2142
+121	micro	Sudwerk Brewing Co	2001 2nd St	Davis	95618-5474	5307562739	4.5	88
+122	micro	Super Owl Brewing	1260 Lake Blvd Ste 121	Davis	95616-5669	5307465992	5.0	37
+123	micro	Three Mile Brewing Co	231 G St	Davis	95616-4549	5305644351	4.5	88
+124	micro	Ruhstaller Beer	800 Business Park Drive, Suite G	Dixon	95620	5306018240	4.5	123
+125	micro	Ruhstaller Beer	726 K St	Sacramento	95814-3403	9169195691	4.5	123
+126	brewpub	Inc 82 Brewing	7370 San Ramon Rd	Dublin	94568-2336	9255608344	4.0	349
+127	micro	Burning Beard Brewing	785 Vernon Way	El Cajon	92020-1938	6194569185	4.5	100
+128	brewpub	Elevation 66 Brewing Co	10082 San Pablo Ave	El Cerrito	94530-3927	5308489176	4.0	580
+129	micro	Progress Brewing	1822 Chico Ave	South El Monte	91733-2944	6265529603	4.5	317
+130	micro	Progress Brewing	1822 Chico Ave	South El Monte	91733-2944	6265529603	4.5	317
+131	micro	Progress Brewing	1822 Chico Ave	South El Monte	91733-2944	6265529603	4.5	317
+132	micro	Progress Brewing	1822 Chico Ave	South El Monte	91733-2944	6265529603	4.5	317
+133	micro	El Segundo Brewing Co	140 Main St	El Segundo	90245-3801	3105293882	4.5	337
+134	micro	Tilted Mash Brewery	9175 Union Park Way	Elk Grove	95624-2792		4.5	109
+135	planning	Brewery In Planning - Elk Grove		Elk Grove	95624-6066		4.5	109
+136	micro	Flatland Brewing Company	9183 Survey Rd Ste 104	Elk Grove	95624-9712	9167533116	4.5	77
+137	micro	Escondido Brewing Company	649 Rock Springs Rd	Escondido	92025-1622		4.5	44
+138	brewpub	Plan 9 Alehouse	155 E Grand Ave	Escondido	92025-2701	7604898817	4.0	535
+139	regional	Stone Brewing Co	2120 Harmony Grove Rd	Escondido	92029-2053	76029478991803	4.0	4401
+140	brewpub	Paystreak Brewing	449 Main Street	Etna	96027	5304672337	4.5	13
+141	planning	Humboldt Springs Brewing Co		Eureka	95501	7074993050	3.5	483
+142	regional	Lost Coast Brewery and Cafe - Table Bluff Brewing, Inc.	617 4th St	Eureka	95501-1013	7074454480	3.5	479
+143	micro	The Booth Brewing Co.	123 W 3rd St	Eureka	95501-0222	7075725728	3.5	903
+144	brewpub	Iron Springs Pub & Brewery	765 Center Blvd	Fairfax	94930-1764	4154851005	4.0	323
+145	large	Anheuser-Busch Inc 8093 Fairfield	3101 Busch Dr	Fairfield	94534-9726	7074292000	5.0	679
+146	micro	Blue Frog Brewing Company	1740 Travis Blvd	Fairfield	94533-3431	7074292337	4.5	253
+147	planning	Old Country Brewing		Fairfield	94533-7790		4.5	253
+148	micro	Eel River Brewing Co	1777 Alamar Way	Fortuna	95540-9548	7077252739	3.5	483
+149	planning	Black Magic Brewing		Fountain Valley	92708-6431		4.5	335
+150	brewpub	Jack's Brewing Co	39176 Argonaut Way	Fremont	94538-1304	5107962036	3.5	421
+151	micro	JP DasBrew	44356 S Grimmer Blvd	Fremont	94538-6385	5102705345	4.5	155
+152	brewpub	Sequoia Brewing Co - Tower District	777 E Olive Ave	Fresno	93728-3350	5592645521	3.5	183
+153	micro	Full Circle Brewing Co	620 F St	Fresno	93706-3413	5592646323	3.5	68
+154	micro	Tioga-Sequoia Brewing Co	746 Broadway St	Fresno	93721-2808	5592645521	4.5	143
+155	micro	Bootleggers Brewery	130 S Highland Ave	Fullerton	92832-1803	7148712337	4.5	758
+156	micro	Bootleggers Brewery	130 S Highland Ave	Fullerton	92832-1803	7148712337	4.5	758
+157	micro	Bootleggers Brewery	1100 E Truslow Ave	Fullerton	92831-4626	7148712337	4.5	758
+158	micro	Bootleggers Brewery	1100 E Truslow Ave	Fullerton	92831-4626	7148712337	4.5	758
+159	micro	River Rock Brewery	807 C St	Galt	95632-1706	2093316071	4.5	15
+160	brewpub	Golden State Brew and Grill	7560 Monterey Rd Ste 100	Gilroy	95020	4088467070	4.0	47
+161	planning	Can Of Worms Brewing		Glendale	91214-1713	8187975520	4.0	364
+162	planning	Oak Grove Brewing Company		Glendale	91208-1836	8183199577	4.5	39
+163	brewpub	Hollister Brewing Co	6980 Market Place Dr	Goleta	93117-2997	8059682810	3.5	474
+164	micro	Draughtsmen Aleworks	53 Santa Felicia Dr	Goleta	93117-2804	8053872577	5.0	68
+165	brewpub	Sacrilege Brewing Project	730 Main St	Half Moon Bay	94019-1925	6502767029	4.0	222
+166	micro	Common Space Brewery	3411 W El Segundo Blvd	Hawthorne	90250-4816	3106662825	4.5	98
+167	micro	Los Angeles Ale Works	12918 Cerise Ave	Hawthorne	90250-5521	4244564191	4.5	163
+168	brewpub	Buffalo Bills Brewery	1082 B St	Hayward	94541-4108	5108869823	3.5	1458
+169	regional	Bear Republic Brewing Co	345 Healdsburg Ave	Healdsburg	95448-4105	7074332337	3.5	361
+170	brewpub	Abigaile	1301 Manhattan Ave	Hermosa Beach	90254-3666	3107988227	4.0	1199
+171	brewpub	Brewery At Abigaile	1301 Manhattan Ave	Hermosa Beach	90254-3666	3107988227	4.0	1199
+172	micro	Brewery Twenty Five	106 3rd St	Hollister	95023	8316367640	5.0	10
+173	brewpub	Grillin & Chillin Alehouse	401 McCray St # B24	Hollister	95023-2225	8316372337	4.0	92
+174	micro	Riip Beer Company	17216 Pacific Coast Hwy	Huntington Beach	92649-4116	7142486710	4.5	205
+175	planning	Tortugo Brewing Company		Inglewood	90302-3308		5.0	34
+176	brewpub	Bolt Brewery	8179 Center St	La Mesa	91942-2907	6193037837	4.5	228
+177	micro	Helix Brewing Co	8101 Commercial St	La Mesa	91942-2927	6197418447	4.5	184
+178	brewpub	Laguna Beach Brewery and Grille	237 Ocean Ave	Laguna Beach	92651-2106	9494973381	4.5	321
+179	micro	Craft Brewing Company	530 Crane St	Lake Elsinore	92530-2779	9516742562	4.5	101
+180	brewpub	O'Meara Bros. Brewing Company	901 Bevins St	Lakeport	95453-8778	7072621234	3.5	175
+181	brewpub	Kinetic Brewing Company	735 W Lancaster Blvd	Lancaster	93534-3118	6619422337	3.5	421
+182	micro	Bravery Brewing	42705 8th St W	Lancaster	93534-7184	6619514677	4.5	137
+183	brewpub	Marin Brewing Co	1809 Larkspur Landing Cir	Larkspur	94939-1801	4154614677	3.0	751
+184	micro	Bird Street Brewing	242 Heinlen St	Lemoore	93245-2947	5593094649	4.5	5
+185	planning	Dueling Dogs Brewing Company		Lincoln	95648-8503	9164348141	4.5	130
+186	micro	Altamont Beer Works	2402 Research Dr	Livermore	94550-3850	9254432337	4.5	205
+187	micro	Eight Bridges Brewing	332 Earhart Way	Livermore	94551-9309	9259619160	4.0	107
+188	contract	Gridlock Brewing Co	2659 Pickfair Lane	Livermore	94551	4088358794	4.5	159
+189	brewpub	The Dancing Fox	203 S School St	Lodi	95240-3511	2093662634	4.0	635
+190	micro	Five Window Beer Co	9 W Locust St	Lodi	95240-2137	2097122336	4.5	88
+191	micro	Idol Beer Works	100 S Sacramento St	Lodi	95240-3526		4.5	40
+192	brewpub	Lodi Beer Company	105 S School St	Lodi	95240-3509	2093682964	4.0	737
+193	planning	Burnin Daylight Brewing Company		Lomita	90717	3107417621	5.0	40
+194	brewpub	Solvang Brewing Company - Lompoc	234 N H St	Lompoc	93436-6022	9787292485	3.5	259
+195	micro	Long Beach Beer Lab	518 W Willow St	Long Beach	90806-2831	5623413659	4.5	145
+196	brewpub	Rock Bottom Brewery - Long Beach	1 Pine Ave	Long Beach	90802-4759	5623082255	3.0	998
+197	planning	Ambitious Ales		Long Beach	90807-2907	7142962550	5.0	62
+198	micro	Beachwood Blendery	247 Long Beach Blvd	Long Beach	90802-3136		4.5	78
+199	brewpub	Belmont Brewing Co	25 39th Pl	Long Beach	90803-2806	5624333891	3.5	1467
+200	brewpub	Dutch's BrewHouse	4244 Atlantic Ave	Long Beach	90807-2802	5623361326	5.0	220
+201	micro	Liberation Brewing	3630 Atlantic Ave	Long Beach	90807	5623490133	4.5	51
+202	micro	Steady Brewing	2936 Clark Ave	Long Beach	90815	5623516793	4.0	39
+203	micro	Loomis Basin Brewing Co	3277 Swetzer Rd	Loomis	95650-7607	9162592739	4.0	134
+204	planning	Brewery in Planning - Los Angeles		Los Angeles	90049-1620	3107796045	4.5	257
+205	micro	Dry River Brewing	671 S Anderson St	Los Angeles	90023-1110	2133755235	4.0	55
+206	micro	Iron Triangle Brewing Company	1581 Industrial St	Los Angeles	90021-1217	3109905702	4.0	246
+207	brewpub	6th and La Brea	600 South La Brea Ave	Los Angeles	90036		4.0	239
+208	micro	Angel City Brewery	216 S Alameda St	Los Angeles	90012-4201	2136221261	4.0	1729
+209	brewpub	Arts District Brewing Company	828 Traction Ave	Los Angeles	90013-1816		4.0	895
+210	micro	Boomtown Brewery	700 Jackson St	Los Angeles	90012-3443	2136178497	4.5	347
+211	micro	Eagle Rock Brewery	3056 Roswell St	Los Angeles	90065-2214	3232577866	4.5	413
+212	micro	Frogtown Brewery	2931 Gilroy St	Los Angeles	90039-2817	3234522739	4.5	94
+213	micro	Highland Park Brewery	5125 York Blvd	Los Angeles	90042	4255011255	4.0	113
+214	micro	Highland Park Brewery	5125 York Blvd	Los Angeles	90042	4255011255	4.5	126
+215	brewpub	Highland Park Brewery	1229 N Spring St	Los Angeles	90012	3237396459	4.0	113
+216	brewpub	Highland Park Brewery	1229 N Spring St	Los Angeles	90012	3237396459	4.5	126
+217	brewpub	Karl Strauss Brewing Co - Downtown Los Angeles	600 Wilshire Blvd Ste 100	Los Angeles	90017-3212	2132282739	4.5	611
+218	planning	Lawless Brewing		Los Angeles	90068-1436	8184567345	4.0	8048
+219	micro	Mumford Brewing Company	416 Boyd St	Los Angeles	90013-1631	6263759353	4.5	257
+220	micro	Ohana Brewing Co	1756 E 23rd St	Los Angeles	90058-1012	6262822337	4.5	155
+221	planning	Brewery in Planning - Los Gatos		Los Gatos	95033-8034		4.0	328
+222	micro	Riley's Brewing Co	28777 Avenue 15 1/2	Madera	93638-2316	5596738021	4.0	210
+223	micro	Second Son Brews	12810 Road 38	Madera	93636-8671		5.0	5
+224	micro	Black Doubt Brewing Company	452 Old Mammoth Rd, #104	Mammoth Lakes	93546	7605250462	5.0	128
+225	brewpub	Rocksteady Brewing Co.	611 Escobar St	Martinez	94553-1111	9252288787	3.5	496
+226	proprietor	Headlands Brewing Company		Mill Valley	94941-2003	4158604226	3.0	751
+227	brewpub	Mill Valley Beer Works	173 Throckmorton Ave	Mill Valley	94941-1909		3.5	394
+228	micro	Hop Secret Brewing Co	162 W Pomona Ave	Monrovia	91016-4558		4.5	239
+229	micro	Pacific Plate Brewing Co	1999 S Myrtle Ave	Monrovia	91016-4854	6262398456	4.5	239
+230	micro	Dragon's Tale Brewery	8920 Vernon Ave Ste 122	Montclair	91763-1662	9095292688	4.5	71
+231	brewpub	Alvarado Street Brewery & Grill	426 Alvarado St	Monterey	93940-2711	8316552337	4.0	1106
+232	planning	Canyon Club Brewery		Moraga	94556	8087992005	4.0	61
+233	brewpub	El Toro Brewing Company Brewpub	17605 Monterey Rd	Morgan Hill	95037-3620		4.5	235
+234	contract	Palo Alto Brewing Co	1080B La Avenida St	Mountain View	94043-1422		4.0	108
+235	brewpub	Tied House Cafe and Brewery-Mtn View	954 Villa St	Mountain View	94041-1236	6509652739	3.5	852
+236	micro	Electric Brewing Co	41537 Cherry St	Murrieta	92562-9193	9516962266	4.5	117
+237	brewpub	Downtown Joes Brewery and Restaurant	902 Main St	Napa	94559-3045	7072582337	3.5	812
+238	brewpub	Hop Creek Pub	3253 Browns Valley Rd	Napa	94558-5424	7072577708	4.5	212
+239	proprietor	Napa Palisades Beer Company	1000 Main St	Napa	94559-2645	7072961552	4.5	293
+240	brewpub	Silo's	530 Main St	Napa	94559-3378	7072515833	4.0	67
+241	micro	St Clair Brown Winery & Brewery	816 Vallejo St	Napa	94559	7072555591	4.5	191
+242	brewpub	Tarla Mediterranean Bar and Grill	1480 1st St	Napa	94559-2843	7072555599	4.0	1061
+243	brewpub	The Runway By Patrick	2044 Airport Rd	Napa	94558-6208	7072586115	4.0	98
+244	micro	Trade Brewing	731 1st St	Napa	94559-2624	7074928223	4.5	45
+245	micro	Ol' Republic Brewery	124 Argall Way	Nevada City	95959-3002	5302647263	4.0	69
+246	brewpub	Three Forks Bakery & Brewing Company	211 Commercial St	Nevada City	95959-2506	5304708333	4.0	370
+247	micro	Sons of Liberty Aleworks	1780 Town and Country Dr Ste 101	Norco	92860-3618	9514035122	4.5	122
+248	micro	Indian Valley Brewing	14 Commercial Blvd Ste 125	Novato	94949-6110	4153014983	4.5	9
+249	brewpub	Moylan's Brewery & Restaurant	15 Rowland Way	Novato	94945-5001	4158984677	3.5	491
+250	planning	Trail Dog Brewing Co.		Novato	94945-3318	4157580411	4.5	1861
+251	brewpub	Woods Bar & Brewery	1701 Telegraph Ave	Oakland	94612-2107	4155091695	4.0	173
+252	micro	Ale Industries	3096 E 10th St	Oakland	94601-2960	9254705280	4.5	169
+253	planning	Brewery in Planning - Oakland		Oakland	94611-5570		4.5	56
+254	micro	Diving Dog Brewhouse	1802 Telegraph Ave	Oakland	94612-2110	5103061914	4.0	147
+255	micro	Ghost Town Brewing	1960 Adeline St	Oakland	94607-2300	5109266728	4.5	74
+256	micro	Independent Brewing Co	444 Harrison St	Oakland	94607-4118		4.0	65
+257	brewpub	Old Kan Beer & Co	95 Linden St	Oakland	94607-2510	5103383965	4.5	78
+258	micro	Original Pattern Brewing Company	292 4th St	Oakland	94607-4332	5108444833	4.5	56
+259	micro	Roses' Taproom	4930 Telegraph Ave	Oakland	94609-2012	5108583969	4.0	80
+260	planning	Tack Brewing		Oakland	94618-1534	8054044861	4.0	3043
+261	micro	Temescal Brewing	4115 Telegraph Ave	Oakland	94609-2405	5108995628	4.0	193
+262	brewpub	Woods Beer Company	1701 Telegraph Ave	Oakland	94612-2107	4158149212	4.0	173
+263	planning	Dark Sea Cinema And Brewery		Oakland	94609-1804		4.5	779
+264	micro	Novel Brewing Company	6510 San Pablo Ave	Oakland	94608-1236	5109229974	4.5	109
+265	micro	Oceanside Brewing Company	312 Via Del Norte	Oceanside	92058-1232	7604537900	5.0	112
+266	brewpub	Bagby Beer Company	601 S Coast Hwy	Oceanside	92054-4120	7602709075	4.0	1089
+267	regional	Belching Beaver Brewery	1334 Rocky Point Dr	Oceanside	92056-5864	7607321415	4.0	68
+268	micro	Black Plague Brewing	2550 Jason Ct	Oceanside	92056-3592	7602072949	4.5	132
+269	micro	Legacy Brewing Company	363 Airport Rd	Oceanside	92058-1203	7607053221	4.0	136
+270	micro	Mason Ale Works	2002 S Coast Hwy	Oceanside	92054-6535	8583958809	4.0	49
+271	micro	Northern Pine Brewing	326 N Horne St	Oceanside	92054-2810	7607541434	4.5	52
+272	micro	Midnight Jack Brewing Company	3801 Oceanic Dr Ste 101	Oceanside	92056-5850	7606379679	4.0	68
+273	micro	Strum Brewing Company	235 S Campus Ave	Ontario	91761-1736	9096786935	4.5	63
+274	planning	Berts Brewing Co.		Orange	92867-6942	2069139711	4.5	275
+275	micro	Black Cock Brewing Company	1444 N Batavia St	Orange	92867-3505	7147448410	4.0	256
+276	micro	Chapman Crafted Beer	123 N Cypress St	Orange	92866-1309	8448552337	4.5	122
+277	brewpub	Feather Falls Brewing Co	3 Alverda Dr	Oroville	95966-9379	5305344059	4.0	82
+278	brewpub	Miner's Alley Brewing Company	2053 Montgomery St	Oroville	95965-4947	5306934388	4.0	133
+279	micro	Red Tandem Brewery	1009 Harbor Blvd	Oxnard	93035-1131	8058324023	4.0	105
+280	planning	Transmission Brewing Company		Oxnard	93030-8231	8054076133	4.0	380
+281	contract	Craft Artisan Ales		Pacific Grove	93950-7093	8317177543	4.0	1106
+282	micro	Pedro Point Brewing	55A Bill Drake Way	Pacifica	94044	6502889149	5.0	66
+283	micro	Craftsman Brewing Co	1260 Lincoln Ave Ste 100	Pasadena	91103-2465	6262962537	4.5	39
+284	contract	Dr Jekyll's Craft Beer	825 Cambridge Ct	Pasadena	91107-1977	3102738339	4.0	576
+285	planning	First Water Brewing Company		Pasadena	91106-1420		4.5	39
+286	micro	Toro Creek Brewing Co	1111 Riverside Ave, Ste 103	Paso Robles	93446	8055507007	4.5	28
+287	brewpub	Dempsey's Restaurant And Brewery	50 E Washington St	Petaluma	94952-3115	7077659694	3.5	339
+288	large	Lagunitas Brewing Co	1280 N McDowell Blvd	Petaluma	94954-1113	7077694495	4.5	1861
+289	micro	Pismo Brewing Co	500 Cypress St	Pismo Beach	93449-2624	8052956200	3.5	147
+290	micro	E.J. Phair Brewing Co.	300 Cumberland St	Pittsburg	94565-2234	9252529895	4.0	226
+291	micro	Offshoot Beer Co.	737 Dunn Way	Placentia	92870	7149966258	4.5	951
+292	micro	Stereo Brewing Co	950 S Via Rodeo	Placentia	92870-6775	7149933390	4.5	114
+293	micro	Bruery, The	717 Dunn Way	Placentia	92870-6806	7149966258	4.5	951
+294	micro	Old Hangtown Beer Works		Placerville	95667	5309195166	4.5	26
+295	micro	Old Hangtown Beer Works		Placerville	95667	5309195166	4.5	26
+296	micro	Old Hangtown Beer Works	11327 Trade Center Dr Ste 350	Rancho Cordova	95742-6285	5309195166	4.5	26
+297	micro	Old Hangtown Beer Works	11327 Trade Center Dr Ste 350	Rancho Cordova	95742-6285	5309195166	4.5	26
+298	micro	Outbreak Brewing Co.	640 Main St	Placerville	95667-5704	5307483258	4.0	45
+299	brewpub	Placerville Brewing Co	155 Placerville Dr	Placerville	95667-3909	5302959166	3.0	167
+300	micro	Amador Brewing Company	9659 Main St	Plymouth	95669-9570	2095071900	4.5	100
+301	micro	Old Stump Brewery	2896 Metropolitan Pl	Pomona	91767-1854	9098609052	4.0	199
+302	micro	Claimstake Brewing Company	11366 Monier Park Pl	Rancho Cordova	95742-6856	9166615249	4.5	108
+303	micro	Fort Rock Brewing	12401 Folsom Blvd Ste 110	Rancho Cordova	95742-6422	9169364616	4.0	116
+304	planning	Brewery in Planning - Rancho Cucamonga		Rancho Cucamonga	91737-2461	9094766934	4.5	299
+305	micro	Kings Brewing Company	8560 Vineyard Ave Ste 301	Rancho Cucamonga	91730-4395	9097273333	4.5	213
+306	micro	No Clue Craft Brewery	9037 Arrow Rte Ste 170	Rancho Cucamonga	91730-4433	9099892394	4.0	98
+307	micro	Laguna Beach Beer Co	29851 Aventura	Rancho Santa Margarita	92688-2014	9492646821	4.5	111
+308	brewpub	Cedar Crest Brewing and Wine Bar	615 Main St	Red Bluff	96080-3343	5307279016	4.5	19
+309	brewpub	Final Draft Brewing Company	1600 California St	Redding	96001-1001	3105693868	4.0	276
+310	micro	Wildcard Brewing Company	9565 Crossroads Dr	Redding	96003-6814	5307229239	4.5	46
+311	brewpub	Woody's Brewery	1257 Oregon St	Redding	96001-0414	5307681034	4.0	446
+312	micro	Escape Craft Brewery	721 Nevada St Ste 401	Redlands	92373-8053	9097133727	4.5	143
+313	regional	Hangar 24 Craft Brewery	1710 Sessums Dr	Redlands	92374-1909	9093891400	4.5	607
+314	micro	Ritual Brewing Co	1315 Research Dr	Redlands	92374-4583	9094787800	4.5	234
+315	micro	King Harbor Brewing Co	2907 182nd St	Redondo Beach	90278-3922	3105428657	4.5	101
+316	micro	Origin Brewer		Richmond	94805-2121		4.5	22
+317	brewpub	Heroes Restaurant and Brewery	3397 Mission Inn Ave	Riverside	92501-3302	9512480722	3.5	1657
+318	micro	5150 Brewing At The Brass Tap Rocklin	5150 Commons Dr Ste 101	Rocklin	95677-3925	9162462729	3.5	136
+319	micro	Moksa Brewing Co	5860 Pacific St	Rocklin	95677-3738	9168241366	4.0	123
+320	micro	Out of Bounds Brewing Company	4480 Yankee Hill Rd Ste 100	Rocklin	95677-1633		4.0	231
+321	brewpub	Bear Republic Brewing Co Pub & Restaurant - Lakeside	5000 Roberts Lake Rd	Rohnert Park	94928	7075852722	3.5	361
+322	brewpub	Monk's Cellar	240 Vernon St	Roseville	95678-2633	9167866665	4.0	745
+323	micro	Fountainhead Brewing Co	4621 24th St	Sacramento	95822-1412	9162284610	4.5	62
+324	micro	Jackrabbit Brewing Co	1323 Terminal St	West Sacramento	95691-3514	2096120259	4.5	86
+325	micro	Jackrabbit Brewing Co	1323 Terminal St	West Sacramento	95691-3514	2096120259	4.5	86
+326	micro	Jackrabbit Brewing Co	1323 Terminal St	West Sacramento	95691-3514	2096120259	4.5	86
+327	micro	Jackrabbit Brewing Co	1323 Terminal St	West Sacramento	95691-3514	2096120259	4.5	86
+328	micro	Track 7 Brewing Co - Natomas	826 Professor Ln Ste 100	Sacramento	95834-7743	9165204677	4.5	565
+329	brewpub	Urban Roots Brewing	1322 V St	Sacramento	95818-1418	9167063741	4.0	351
+330	brewpub	Alaro Craft Brewery	2004 Capitol Ave	Sacramento	95811	9164367711	4.0	141
+331	planning	At Ease Brewing		Sacramento	95811-3003	9167362267	4.0	107
+332	micro	Big Sexy Brewing Company	5861 88th St Ste 800	Sacramento	95828-1131	9163747332	4.5	61
+333	micro	Big Stump Brewing Company	1716 L St	Sacramento	95811-4024	9166687433	4.5	134
+334	micro	Bike Dog Brewing Co	2534 Industrial Blvd Ste 110	West Sacramento	95691-3471		4.5	202
+335	micro	Bike Dog Brewing Co	2534 Industrial Blvd Ste 110	West Sacramento	95691-3471		4.5	202
+336	micro	Bike Dog Brewing Co	2534 Industrial Blvd Ste 110	West Sacramento	95691-3471		4.5	202
+337	micro	Bike Dog Brewing Co	2534 Industrial Blvd Ste 110	West Sacramento	95691-3471		4.5	202
+338	micro	Device Brewing Company	8166 14th Ave	Sacramento	95826-4722	9167372739	4.0	1
+339	planning	Golden Road Brewing Co		Sacramento	95811	9163829445	4.5	134
+340	brewpub	Hoppy Brewing Co	2425 24th St	Sacramento	95819-4619	9164514677	3.0	10
+341	micro	King Cong Brewing Company	1709 del Paso Blvd	Sacramento	95815-3016	9165148041	4.0	66
+342	micro	New Glory Craft Brewery	8251 Alpine Ave	Sacramento	95826-4708	9164519355	4.5	150
+343	micro	New Helvetia Brewing Company	1730 Broadway	Sacramento	95818-2320	9164699889	4.0	216
+344	brewpub	Oak Park Brewing Co	3514 Broadway	Sacramento	95817-2825	9166602723	3.5	555
+345	micro	Blue Oak Brewing Co	821 Cherry Ln	San Carlos	94070-3306	4152739676	4.5	62
+346	micro	Devil's Canyon Brewing Company	935 Washington St	San Carlos	94070-5316	6505922739	4.0	160
+347	micro	Left Coast Brewing Co.	1245 Puerta del Sol	San Clemente	92673-6310	9493619972	4.5	121
+348	brewpub	Pizza Port San Clemente	301 N El Camino Real	San Clemente	92672-4716	9499400005	4.0	825
+349	micro	Abnormal Beer Company	16990 Via Tazon Ste 123	San Diego	92127-1649	8586182463	5.0	6
+350	planning	Brewery in Planning - San Diego		San Diego	92121-4396	8588882188	4.5	675
+351	micro	Eppig Brewing	3052 El Cajon Blvd Ste 103	San Diego	92104-1399	6195011840	4.5	98
+352	micro	Mike Hess Brewing - Miramar	7955 Silverton Ave Ste 1201	San Diego	92126-6357	6198876453	4.5	186
+353	micro	New English Brewing Co Inc	11545 Sorrento Valley Rd Ste 305	San Diego	92121-1322	6198578023	4.0	600
+354	brewpub	Stone Brewing World Bistro & Gardens- Liberty Station	2816 Historic Decatur Rd Ste 116	San Diego	92106-6164	6192692200	3.5	1983
+355	micro	Thunderhawk Alements	8675 Miralani Dr Ste 100	San Diego	92126-4355	6199524832	4.5	55
+356	micro	Alta Brewing Company	1983 Julian Avenue	San Diego	92113-1125	6197957300	4.5	27
+357	large	10 Barrel Brewing Co	1501 E St	San Diego	92101-6618	6195782311	4.5	356
+358	micro	2Kids Brewing Company	8680 Miralani Dr Ste 123	San Diego	92126-6391	8584805437	4.0	86
+359	micro	Align Brewing Co	8680 Miralani Dr	San Diego	92126-6300		4.5	17
+360	brewpub	Amplified Ale Works	4150 Mission Blvd Ste 208	San Diego	92109-5054	6195871400	4.0	850
+361	contract	Clayton Brewing Co	661 W Arrow Hwy	San Dimas	91773-2936	9093944900	4.0	143
+362	micro	San Fernando Brewing Co.	425 Park Ave	San Fernando	91340-2525	8187456175	4.5	202
+363	micro	Black Hammer Brewing	544 Bryant St	San Francisco	94107-1217	4155002273	4.5	312
+364	regional	Fort Point Beer Company	644 Mason St	San Francisco	94129-1600	4159064021	4.5	83
+365	micro	Magnolia Dogpatch	2505 3rd St	San Francisco	94107-3112	4158647468	3.5	52
+366	proprietor	Sufferfest Beer Company	1770 UNION STREET	San Francisco	94123-3404	4152386431	4.0	227
+367	brewpub	Woods Cerveceria	3801 18th St	San Francisco	94114-2615	4152739295	4.0	193
+368	brewpub	Beach Chalet Brewing Co	1000 Great Hwy	San Francisco	94121-3268	4153868439	3.0	1292
+369	brewpub	21st Amendment Brewery Cafe	563 2nd St	San Francisco	94107-1411	4153690900	3.5	2426
+370	brewpub	47 Hills Brewing Co	137 S Linden Ave	South San Francisco	94080-6410	6508678476	4.5	151
+371	brewpub	47 Hills Brewing Co	137 S Linden Ave	South San Francisco	94080-6410	6508678476	4.5	151
+372	brewpub	47 Hills Brewing Co	137 S Linden Ave	South San Francisco	94080-6410	6508678476	4.5	151
+373	brewpub	47 Hills Brewing Co	137 S Linden Ave	South San Francisco	94080-6410	6508678476	4.5	151
+374	large	Anchor Brewing Co	1705 Mariposa St	San Francisco	94107-2334	4158638350	5.0	679
+375	micro	Barebottle Brewing Company	1525 Cortland Ave	San Francisco	94110-5714	4159268617	4.5	347
+376	brewpub	Barrel Head Brewhouse	1785 Fulton St	San Francisco	94117-1202	4154166989	4.0	510
+377	brewpub	Bartlett Hall	242 Ofarrell St	San Francisco	94102-2119	4154334332	3.5	802
+378	micro	Black Sands Brewery	701 Haight St	San Francisco	94117-3316	4155345194	3.5	285
+379	planning	Brewery in Planning - Calistoga		San Francisco	94117-1576		3.5	812
+380	micro	Cellarmaker Brewing Company	1150 Howard St	San Francisco	94103-3914	4158633940	4.5	431
+381	micro	Harmonic Brewing	1050 26th St	San Francisco	94107-3513	4158726817	4.5	126
+382	brewpub	K-Oz Restaurant Brewery	121 7th St	San Francisco	94103-2835	4158729431	3.5	100
+383	micro	Ogopogo Brewing	864 Commercial Ave	San Gabriel	91776		5.0	77
+384	regional	Hermitage Brewing Company	1627 S 7th St	San Jose	95112-5932	4082910966	4.5	235
+385	micro	Ale House Brewing Co		San Jose	95118-1605	4083907574	4.5	81
+386	contract	Bison Brewing Co	1627 S 7th St	San Jose	95112-5932	5108125996	3.0	1406
+387	regional	Gordon Biersch Brewing Co	357 E Taylor St	San Jose	95112-3105	4082781008	4.5	61
+388	micro	Hapa's Brewing Company	460 Lincoln Ave # 90	San Jose	95126-3702	4089823299	4.5	235
+389	contract	Moksha Beer		San Jose	95154-0279	4157295796	4.0	2921
+390	micro	Santa Clara Valley Brewing	101 E Alma Ave	San Jose	95112-5944	4082885181	4.0	87
+391	contract	South Bay Brewco	930 McLaughlin Ave	San Jose	95122-2611	4082193696	3.5	1738
+392	brewpub	Uproar Brewing	439 S 1st St	San Jose	95113-2816	4086732266	4.0	264
+393	brewpub	Whole Foods Market Brewing Company- Floodcraft Brewing	777 The Alameda	San Jose	95126-3155	4082071126	4.0	401
+394	micro	Cleophus Quealy Beer Company	448 Hester St	San Leandro	94577-1024		4.5	125
+395	planning	Dr Hops Kombucha Beer		San Leandro	94577-1263	3109168090	4.5	247
+396	brewpub	7 Sisters Brewing Co	181 Tank Farm Rd Ste 110	San Luis Obispo	93401-7082	8058687133	4.5	100
+397	brewpub	Libertine Brewing Company	1234 Broad St	San Luis Obispo	93401-3908	8057720700	4.0	185
+398	brewpub	Underground Brewing Co.	3940 Broad St # 7415	San Luis Obispo	93401-7017		4.5	67
+399	micro	Bang the Drum Brewery	950 Orcutt Rd	San Luis Obispo	93401-6740	8587762973	4.0	114
+400	brewpub	Central Coast Brewing Co - Higuera St.	6 Higuera St.	San Luis Obispo	93401	8057832739	4.5	233
+401	micro	SLO Brewing Co	736 Higuera St	San Luis Obispo	93401-3513	8054595604	3.5	370
+402	planning	There Does Not Exist		San Luis Obispo	93401		4.0	1119
+403	micro	Port Brewing Co / The Lost Abbey	155 Mata Way Ste 104	San Marcos	92069-2983	8009186816	4.0	483
+404	micro	Dos Desperados Brewery	1241 Linda Vista Dr	San Marcos	92078-3809	7605666209	4.5	90
+405	micro	Stumblefoot Brewing	1784 La Costa Meadows Dr Ste 103	San Marcos	92078-5174	7605663668	4.0	107
+406	brewpub	Urge Gastropub & Common House/Mason Ale Works	255 Redel Rd	San Marcos	92078-4347		3.5	546
+407	micro	Wild Barrel Brewing Company	692 Rancheros Dr	San Marcos	92069-3005	7605934785	4.5	151
+408	brewpub	State Room Brewery	1132 4th St	San Rafael	94901-3007	4152957929	4.0	366
+409	brewpub	Canyon Lakes Golf Course & Brewery	640 Bollinger Canyon Way	San Ramon	94582-4971		3.5	80
+410	micro	House Of Pendragon Brewing Co	1849 Industrial Way Ste 103	Sanger	93657-8727	5593467786	4.5	106
+411	micro	Deans Brothers Brewing Co.	1006 S Hathaway St	Santa Ana	92705-4129	7145422001	4.5	275
+412	micro	Network Brewery	1824 Carnegie Ave	Santa Ana	92705-5503	6578598004	4.5	107
+413	planning	Old 290 Brewery		Santa Ana	92704-7463	7145464255	3.0	717
+414	micro	The Good Beer Company, Inc.	309 W 4th St	Santa Ana	92701-4502	7147142988	3.0	1108
+415	micro	Pure Order Brewing Co	410 N Quarantina St	Santa Barbara	93103-3119	8059662881	4.5	78
+416	brewpub	Santa Barbara Brewing Co	501 State St	Santa Barbara	93101-1601	8057301040	3.5	654
+417	micro	Telegraph Brewing Co	418 N Salsipuedes St	Santa Barbara	93103-3127	8059635018	4.0	133
+418	brewpub	The Brewhouse	229 W Montecito St	Santa Barbara	93101-3824	8059632739	3.5	650
+419	micro	Golden State Brewery	1252 Memorex Dr	Santa Clara	95050-2812	4087272337	4.5	154
+420	brewpub	Taplands Brewery	1171 Homestead Rd Ste 110	Santa Clara	95050-5479	4087092990	4.5	202
+421	micro	Pocock Brewing Company	24907 Avenue Tibbitts Ste B	Santa Clarita	91355-3487	6617754899	4.5	111
+422	brewpub	Shanty Shack Brewing	138 Fern St	Santa Cruz	95060-2118	8313160800	4.5	62
+423	micro	East Cliff Brewing Company	21517 E Cliff Dr	Santa Cruz	95062-4844	8317135540	4.5	63
+424	brewpub	Humble Sea Brewing Co	820 Swift St	Santa Cruz	95060-5866	8314316189	4.0	374
+425	brewpub	New Bohemia Brewing Co	1030 41st Ave	Santa Cruz	95062-4447	8313500253	4.5	123
+426	planning	Coastal Star Brewing Company		Santa Maria	93455-1722	8053284677	4.0	612
+427	brewpub	Steele and Hops Public House	1901 Mendocino Ave	Santa Rosa	95401	7075232201	4.0	277
+428	brewpub	2 Tread Brewing Co	1018 Santa Rosa Plz	Santa Rosa	95401-6399	4152330857	4.0	42
+429	brewpub	Fogbelt Brewing Co	1305 Cleveland Ave	Santa Rosa	95401-4211	7079783400	4.0	237
+430	micro	HenHouse Brewing	322 Bellevue Ave # 2	Santa Rosa	95407-7711		4.5	175
+431	brewpub	Old Possum Brewing Company	357 Sutton Pl	Santa Rosa	95407	7073037177	4.0	42
+432	micro	Plow Brewing Company	3334 Industrial Dr	Santa Rosa	95403-2011	7078434583	4.5	58
+433	regional	Russian River Brewing Co	725 4th St	Santa Rosa	95404-4407	7075452337	4.0	2911
+434	micro	Russian River Brewing Co - Production	1812 Ferdinand Ct	Santa Rosa	95404-5968		4.0	2911
+435	micro	Seismic Brewing Co	2932 Dutton Ave	Santa Rosa	95407-5711	7075445996	3.5	496
+436	brewpub	Third Street Aleworks	610 3rd St	Santa Rosa	95404-4418	7075233060	3.5	609
+437	brewpub	Yeti Restaurant	190 Farmers Ln	Santa Rosa	95405-4703	7075219608	4.0	180
+438	micro	Shady Oak Barrel House	420 1st St	Santa Rosa	95401-6339	7075958958	4.5	12
+439	micro	Council Brewing Company	9962 Prospect Ave	Santee	92071		4.5	13
+440	micro	Groundswell Brewing Co	10151 Prospect Ave	Santee	92071-4411	6107499123	4.0	24
+441	micro	3 Disciples Brewing		Sebastopol	95472-5937	7072287309	4.0	22
+442	planning	California Cider Co.		Sebastopol	95472	7078291101	3.0	88
+443	brewpub	Woodfour Brewing Company	6780 Depot St Ste 160	Sebastopol	95472-3462	7078233144	3.5	314
+444	micro	Ten Mile Brewing	1136 E Willow St	Signal Hill	90755-3433	5626121255	4.5	175
+445	brewpub	Pizza Port Solana Beach	135 N Highway 101	Solana Beach	92075-1128	8584817332	4.0	1375
+446	brewpub	Solvang Brewing Co	1547 Mission Dr	Solvang	93463-2607	8056882337	3.5	1201
+447	micro	Sonoma Springs Brewing Co	19449 Riverside Dr Ste 101	Sonoma	95476-6357	7079387422	4.0	44
+448	brewpub	Sonoma Grille	165 W Napa St	Sonoma	95476-6626	7079387542	4.0	260
+449	micro	South Lake Brewing Company	1920 Lake Tahoe Blvd	South Lake Tahoe	96150-6307	5305780087	4.5	129
+450	brewpub	Brewery At Lake Tahoe	3542 Lake Tahoe Blvd	South Lake Tahoe	96150-8900	5305444369	3.5	740
+451	micro	Outpost Brewing Co	932 Stateline Ave	South Lake Tahoe	96150-6913	5304949805	4.5	41
+452	brewpub	Sidellis Lake Tahoe	3350 Sandy Way	South Lake Tahoe	96150	5306003999	4.5	191
+453	brewpub	Cold Water Brewery and Grill	2544 Lake Tahoe Blvd	South Lake Tahoe	96150-7707	5305444677	4.0	818
+454	micro	Lake Tahoe AleWorX	2050 Lake Tahoe Blvd	South Lake Tahoe	96150-6404	5306000442	4.0	366
+455	proprietor	High Water Brewing		Stockton	95204-2943	5304409098	5.0	4
+456	micro	Channel Brewing Co.	110 N San Joaquin St	Stockton	95209-4506	2094904133	4.0	38
+457	micro	Right Eye Brewing Co	301 Spring St	Suisun City	94585	7074161347	4.0	64
+458	brewpub	Faultline Brewing Co	1235 Oakmead Pkwy	Sunnyvale	94085-4040	4087362739	3.0	965
+459	brewpub	Firehouse Grill & Brewery	111 S Murphy Ave	Sunnyvale	94086-6113	4087739500	2.5	786
+460	micro	Red Branch Brewing Company / Rabbits Foot Meadery	1246 Birchwood Dr	Sunnyvale	94089-2205	4087470770	4.5	16
+461	brewpub	Lassen Ale Works @ The Pioneer Saloon	724 Main St	Susanville	96130-4372	5302577666	4.0	293
+462	brewpub	Black Gold Brewing Co	508 Center St	Taft	93268-3109	6617656550	4.0	58
+463	micro	Aftershock Brewing Co	28822 Old Town Front St Ste 107	Temecula	92590-2893	9519722256	4.5	179
+464	brewpub	Karl Strauss Brewing Co	40868 Winchester Rd	Temecula	92591-5521	9512257963	4.5	975
+465	micro	Westlake Brewing & Libation	31111 Via Colinas # 200	Thousand Oaks	91362-3909	7472227231	4.0	95
+466	micro	Absolution Brewing Co	2878 Columbia St	Torrance	90503-3808	3104904860	4.0	280
+467	micro	Cosmic Brewery	20316 Gramercy Pl	Torrance	90501-1511	4242592337	4.0	107
+468	micro	Dudes' Brewing Co	1840 W 208th St	Torrance	90501-1807	4242712915	4.0	341
+469	micro	Monkish Brewing Co	20311 S Western Ave	Torrance	90501-1504	3102952157	4.5	584
+470	brewpub	Red Car Brewery and Restaurant	1266 Sartori Ave	Torrance	90501-2717	3107820222	3.5	462
+471	micro	Scholb Premium Ales	2964 Columbia St	Torrance	90503-3806	4243507303	4.5	129
+472	micro	Smog City Brewing Wood Cellar	1879 Del Amo Blvd	Torrance	90501	3103207664	4.5	547
+473	micro	Strand Brewing Co	2201 Dominguez St	Torrance	90501-1418	3105170900	4.5	177
+474	micro	Yorkshire Square Brewing Co.	1109 Van Ness Ave	Torrance	90501-2236	4243765115	4.5	177
+475	micro	Zymurgy Brew Works	22755 Hawthorne Blvd	Torrance	90505-3613	3106502474	5.0	69
+476	brewpub	HopSaint Brewing Company	5160 W 190th St	Torrance	90503-1005	3102144611	4.0	638
+477	micro	Morgan Territory Brewing	1885 N Macarthur Dr	Tracy	95376-2820	2098348664	4.5	76
+478	micro	FiftyFifty Brewing Production Facility	10434 River Park Pl	Truckee	96161-5905	5305872337	3.5	578
+479	micro	Kaweah Brewing Co.	1054 E Walnut Ave	Tulare	93274	5599725573	4.0	78
+480	micro	Dust Bowl Brewing Co	3000 Fulkerth Rd	Turlock	95380-9403	2096341934	3.5	624
+481	brewpub	Archaic Craft Brewery At Centro	140 E Main St	Tustin	92780-4408	7142588817	4.5	407
+482	planning	TAPS Brewery and Barrel Room		Tustin	92780-7302		4.5	114
+483	brewpub	Ukiah Brewing Co	102 S State St	Ukiah	95482-4903	7074685898	4.0	226
+484	micro	Rescue Brewing Co	167 N 2nd Ave	Upland	91786-6019	9095362739	4.5	122
+485	planning	Brewery In Planning - Vacaville		Vacaville	95688-2526	7073379522	4.5	253
+486	micro	Napa Smith Brewery	101 Yolano Dr	Vallejo	94589-2250	7072552912	4.5	65
+487	brewpub	Mare Island Brewing Co.	289 Mare Island Way	Vallejo	94590-5801	7075563000	4.5	10
+488	micro	Topa Topa Brewing Co	104 E Thompson Blvd	Ventura	93001-2723	8056289255	4.5	176
+489	brewpub	Anacapa Brewing Co	472 E Main St	Ventura	93001-2627	8056432337	4.0	459
+490	planning	Brewery in Planning - Ventura		Ventura	93003-8058	8054151211	4.5	111
+491	micro	Leashless Brewing	585 E Thompson Blvd	Ventura	93001-2826	8056289474	4.0	93
+492	micro	Madewest Brewing Company	1744 Donlon St	Ventura	93003-5673	8059475002	4.5	160
+493	micro	Smoke Mountain Brewery	6520 Casitas Pass Rd	Ventura	93001-9794	8058047954	4.0	345
+494	micro	Ventura Coast Brewing Company	76 S Oak St	Ventura	93001-2702	8056678640	4.5	111
+495	brewpub	Brewbakers Brewing Co	219 E Main St	Visalia	93291-6355	5596272739	4.0	383
+496	micro	Barrel Harbor Brewing Co.	2575 Pioneer Ave Ste 104	Vista	92081-8450	7607343949	4.5	417
+497	micro	Battlemage Brewing Co	2870 Scott St Ste 102	Vista	92081-8556	7602166425	5.0	90
+498	micro	Bear Roots Brewing Company	1213 S Santa Fe Ave	Vista	92083-7230	7607264204	4.5	175
+499	brewpub	Belching Beaver Brewery Tavern & Grill	302 E Broadway	Vista	92084-6020	7605995832	4.0	642
+500	brewpub	Booze Brothers Brewing Co.	2545 Progress St	Vista	92081-8483	7602950217	4.5	241
+501	micro	Indian Joe Brewing	2123 Industrial Ct	Vista	92081-7900	7602953945	4.5	140
+502	micro	Latitude 33 Brewing Co	1430 Vantage Ct Ste 104	Vista	92081-8545	7604106333	4.5	417
+503	brewpub	Prohibition Brewing	2004 E Vista Way	Vista	92084-3321	7602953525	4.0	550
+504	micro	Toolbox Brewing Company	1495 Poinsettia Ave Ste 148	Vista	92081-8539	7605981477	4.0	145
+505	micro	Wavelength Brewing Company	236 Main St	Vista	92084-6008	7608209283	4.5	158
+506	micro	Corralitos Brewing Co	2536 Freedom Blvd	Watsonville	95076-1046	8317282311	4.5	75
+507	micro	Mount Shasta Brewing Co	360 College Ave	Weed	96094-2706	5309382394	3.5	190
+508	micro	Yolo Brewing Co	1520 Terminal St	West Sacramento	95691-3814	9163797585	4.0	152
+509	micro	Five Threads Brewing Company	31133 Via Colinas Ste 109	Westlake Village	91362-4525		4.5	137
+510	micro	Sundowner Brewing Co.	30961 Agoura Rd Ste 321	Westlake Village	91361-5686	8185979463	4.5	372
+511	micro	14 Cannons Brewing Company	31125 Via Colinas Ste 907	Westlake Village	91362-3974	8186996165	4.5	74
+512	planning	LA Bodega Brewing Co		Whittier	90603-1207		4.0	364
+513	brewpub	Stadium Pizza - Murrieta	32278 Clinton Keith Rd Ste 101	Wildomar	92595-7314	9516787826	4.5	384
+514	micro	Blue Note Brewing Company	750 Dead Cat Aly	Woodland	95695-3435	5303584677	4.5	85
+515	contract	Fireman's Brew	6433 Topanga Canyon Blvd # 189	Woodland Hills	91303-2621	8188832739	1.0	1
+516	planning	Paperback Brewing Company		Woodland Hills	91367-2912		3.5	146
+517	planning	The Blue Poppy Brewery		Yorba Linda	92886-7300		3.0	663
+518	brewpub	Sutter Buttes Brewing	421 Center St	Yuba City	95991-4505	5307907999	4.0	355
+519	micro	Brewcaipa Brewing Co.	35058 Yucaipa Blvd	Yucaipa	92399-4337	9092722337	4.5	68

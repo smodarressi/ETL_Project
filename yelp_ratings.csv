@@ -1,0 +1,479 @@
+,names_on_brewery_api,name_on_yelp,yelp_business_id,yelp_rating,yelp_review_count,yelp_closed_status
+0,LAB Brewing Co / Twisted Oak Tavern,Twisted Oak Tavern,_4C85CXH5_mIY_dbWQ8HlA,4.0,397,False
+1,Ladyface Ale Companie,Ladyface Alehouse & Brasserie,iw667W0AGliJ-TPxDu5JGQ,3.5,959,False
+2,Alameda Island Brewing Company,Alameda Island Brewing Company,LgFUgPXhXk8VS8JJEJrxzw,4.5,299,False
+3,Almanac Beer Company,The Rake at Admiral Maltings,9S3xB2_dQduzRVMe6m6ZeA,4.5,34,False
+4,Faction Brewing Co,Faction Brewing,eOs3gVvWZGwur8ZsrhHDuw,4.5,476,False
+5,Junction Brewery & Grill,Junction Brewery and Grill,XyqK3TnpcUhViuyGrWzlhQ,3.5,240,False
+6,Back Street Brewery & Tasting Room,Backstreet Brewery,S_v3CYgl_MFgoSqJMAyeEQ,4.5,183,False
+7,Anaheim Brewery,Anaheim Brewery,59GX_ro4Rmwj9DuhdIZIBA,4.0,298,False
+8,Ballast Point Brewing Company,Ballast Point Anaheim,Dn6mk8tUQKKn9dVOZzMfzQ,3.0,310,False
+9,Bottle Logic Brewing,Bottle Logic Brewing,WpYDDE4SsGiRO73zppX_Jg,4.5,695,False
+10,Brewheim Brewing Company,Brewheim Beer Makers,pdNwlJA8fFwnWXpbEXXflA,5.0,85,False
+11,Bruery Terreux,Bruery Terreux Tasting Room,eMXcWzT-e2H_vvq3FO0FpQ,4.5,228,False
+12,Legends Craft Brewery,Legends Craft Brewery,U7krsboRcZu8hut7REpuNQ,4.5,176,False
+13,JT Schmids Restaurant & Brewery,JT Schmid's Restaurant & Brewery - Anaheim,8ZL-Qw9GPb2_VXdqGTBLsg,3.0,667,False
+14,Phantom Ales,Phantom Ales,N7Cos0Y2w_i1tzDma66fNQ,4.5,450,False
+15,Mt Lowe Brewing Company,Mt. Lowe Brewing Co.,DiGbBWKcXglZrlq1qSkA1A,4.5,360,False
+16,Figueroa Mountain Brewing - Arroyo Grande,Figueroa Mountain Brewing,4acuw-KjV3BarP7vksbBJg,4.0,340,False
+17,Dead Oak Brewing Company,Dead Oak Brewing Company,S9d2hrwKNxcvsiecQdeTJA,5.0,33,False
+18,Tent City Beer Company,Tent City Beer Company,lIGTmEbKeSVx2nNiGsUzVA,4.5,75,False
+19,Auburn Alehouse,Auburn Alehouse,b2w-zSoTWIzhUvhNj89cEg,4.0,1049,False
+20,Tap and Vine,Tap & Vine,zQt0rseCf2fZWgLMuNpY1g,4.0,262,False
+21,Crooked Lane Brewing Co,Crooked Lane Brewing,SPmGIRCuw2y31ODwCS4_3A,4.5,130,False
+22,Catalina Island Brew House,Catalina Island Brew House,20Q6hLAaPhngZWa3UzLqXg,4.5,260,False
+23,Great Change Brewing,Great Change Brewing,C_XfFaOLTWoRYvFJcRmVWw,4.5,26,False
+24,Lengthwise Brewing Co,Lengthwise Brewing Company,u0aKPCEFmumpsNHvM1wq2w,4.5,357,False
+25,Temblor Brewing Company,Temblor Brewing Company,d4PcjEa7FPaNXZ-2a81eVA,4.0,516,False
+26,Brew Rebellion,Brew Rebellion,k0AXjx8f9G36gfrzdWA72g,4.0,20,False
+27,Campbell Brewing Co,Campbell Brewing Company,EJBJse0L7LchMCWs5IzzOA,2.5,400,False
+28,Angry Horse Brewing,Angry Horse Brewing,tv-oz1monzw_a--YfXGtVg,4.0,102,False
+29,Fieldwork Brewing Co,Fieldwork Brewing Co.,u21XuN3yPxlGStGQWTbWWg,4.5,510,False
+30,The Rare Barrel,The Rare Barrel,RvYP2O--XYyGi-CRLnbX2A,4.5,308,False
+31,Gilman Brewing Company,Gilman Brewing Company,QfSxJmnK53SbYORfGM_Ftw,4.5,127,False
+32,Hoi Polloi Brewpub and Beat Lounge,Hoi Polloi Brewing Taproom and Beat Lounge,xVIBJ9IzKj3W8mbG72ZYbw,4.5,176,False
+33,Jupiter,Jupiter,KoZtPdlNO2jMJ7Zc7I9JVg,4.0,3043,False
+34,Triple Rock Brewery and Alehouse,Elite Event: Triple Rock Brewery and Alehouse,WV0HQgq5Btd-eQgE3Vid_A,5.0,17,False
+35,Trumer Brewery,Trumer Pils Brauerei,bM20zSuKsaeUwGXoATnAhQ,4.5,44,False
+36,Big Bear Lake Brewing Co,Big Bear Lake Brewing Company,rY_oBeebUNK-JBDJw-NuLg,3.5,1390,False
+37,Big Bear Mountain Brewery,Big Bear Mountain Brewery,wqM51omW5UQftAs9p8CyTg,3.0,475,False
+38,Mountain Rambler Brewery,Mountain Rambler Brewery,dOFtT5L2Rz5paWwRsfpoRw,4.5,327,False
+39,Mad River Brewing Co,Mad River Brewing Company,za5M32bLqiLSk83HW7_60g,4.0,152,False
+40,TAPS Fish House and Brewery - Brea,TAPS Fish House & Brewery,PPKE4uwDZLDsx0Nvv0x-KQ,4.0,2255,False
+41,BJs Restaurant & Brewery - Brea,BJ's Restaurant & Brewhouse,K-N0djv7lj-FR9aXtjSvWg,3.0,890,False
+42,Firestone Walker Barrelworks,Firestone Walker Brewing- Buellton,6CvGrXTNIps_YOklbEmcJg,4.0,612,False
+43,Figueroa Mountain Brewing,Figueroa Mountain Brewing Company,sCYLA0avTDDj4AahUZu49g,4.5,298,False
+44,Brewery At Simmzys Burbank,Simmzy's,3KMRHU1jo51ngImTqnIgag,4.0,576,False
+45,Gordon Biersch Brewery Restaurant - Burbank,Brewyard Beer Company,PXVKLmIVtGjNu1Fz2z8zvw,4.5,145,False
+46,Henson Brewing,Henson Brewing Company,TDlptL8RwTGZe3f3ebAcHA,4.0,39,True
+47,Lincoln Beer Company,Lincoln Beer Company,pSFFmjg7dVvyJlUtq2Jymg,4.5,200,False
+48,Verdugo West Brewing Company,Trustworthy Brewing,YjYiBu50eEffC3BhrC-KpA,4.0,82,False
+49,Steelhead Brewing Co - Burlingame Station,Steelhead Brewing Company,A3BJyAlm4tYLLnYoUexvWA,3.0,754,False
+50,Johnny's Calistoga / Mud City Brews,Golden Haven Hot Springs Spa and Resort,5CQ2j6dPlFo1RZ1JKGvY0g,4.0,817,False
+51,Napa Valley Brewing Co/ Calistoga Inn,Calistoga Wine Way Inn,CP2-NOckdoi6xy7LJExGHg,4.5,105,False
+52,"Brewery in Planning - Camarillo, CA",Institution Ale Company,KGQrhPKF_ktL6NLtc6TbCw,4.5,482,False
+53,Institution Ale Company,Institution Ale Company,KGQrhPKF_ktL6NLtc6TbCw,4.5,482,False
+54,Campbell Brewing Co,Campbell Brewing Company,EJBJse0L7LchMCWs5IzzOA,2.5,400,False
+55,Sante Adairius Rustic Ales,Sante Adairius Rustic Ales,ouWOFXOKxJT_xCaE0pTLsw,4.5,166,False
+56,Rouleur Brewing Company,Rouleur Brewing Company,uRmQ0RCd2waz6IEd3oZ7LA,4.5,74,False
+57,Karl Strauss Brewing Co - Carlsbad,Karl Strauss Brewing Company,d06Yq7qVry8wDjNPj6GpGg,4.0,1347,False
+58,Papa Marce's Cerveceria,Papa Marce's Cerveceria,4CbekItliIPhUgzfGGtt_g,5.0,28,False
+59,Pizza Port - Bressi Ranch,Pizza Port Bressi Ranch,eWIgR7DeS7BnKbFtIp-m4w,3.5,541,False
+60,Pizza Port Carlsbad,Pizza Port,cto_W4jjMqI6dU7G7JaKTA,3.5,1908,False
+61,Island Brewing Co,Island Brewing Company,4NozMd-0ufrS7sUZ95948w,4.5,231,False
+62,Rincon Brewery,Rincon Brewery,wupvqueqdEZXQxv14sa9vw,4.0,345,False
+63,Teeccino Brewing Company,Night Lizard Brewing Company,WrU1ZYN4jlYcL5mvJrQsCQ,5.0,55,False
+64,British Bulldog Brewery,B Street Public House,t3YfdFH-aghdNQwyV4FJ1Q,4.0,237,False
+65,Sierra Nevada Brewing Co,Sierra Nevada Taproom & Restaurant,rn868zjfRmWGHnGEWUbmjA,4.0,991,False
+66,Chula Vista Brewery,Chula Vista Brewery,IKh9OtEzdi5ZzcrcYVKmJQ,4.0,75,False
+67,Novo Brazil Brewing Company,Novo Brazil Brewing,mzqla2kg86jgzkB_UVYv-w,4.0,215,False
+68,Thr3e Punks Ale,Thr3e Punk Ales Brewing Co,SAlAwc1CFsJ3jSh_Jwm2Ww,4.5,66,False
+69,Brewery in Planning - Claremont,Last Name Brewing,sa513h1CP9gqPEgeU_9m6g,4.5,331,False
+70,Brewery In Planning - Claremont,Last Name Brewing,sa513h1CP9gqPEgeU_9m6g,4.5,331,False
+71,Two Dude Brew,O'Meara Bros Brewing Company,MT9skrMJHO6UZAKDtLfW2Q,3.5,175,False
+72,559 Local Brewing,559 Beer,6r287K_bPUnEdWjdWX7KlQ,4.0,64,False
+73,Riley's Brew Pub,Riley's Brew Pub,ExyTzIFAdKRMCPSK6EOJXg,4.0,264,False
+74,Zone 9 Brewing Company,Zone 9 Brewing Company,zHRuh5PLEUrDxWPNBoZTsQ,5.0,29,False
+75,Coronado Brewing Co,Coronado Brewing Company,EXySMZDrgvBon4a4WqvZcg,4.0,375,False
+76,Main Street Brewery,Lamppost Pizza Main Street Brewery,tJcM7Y9raCFX2HGRJ7wpZw,4.0,235,False
+77,Stone Church Brewing,Stone Church Brewing,39GiPHLWYISQCu60wkD2yw,4.5,125,False
+78,TAPS Fish House and Brewery - Corona,TAPS Fish House & Brewery,xNNWiB4AN4Fe1YuHtSP1dA,4.0,1140,False
+79,Coronado Brewing Co,Coronado Brewing Company,EXySMZDrgvBon4a4WqvZcg,4.0,375,False
+80,Alosta Brewing Co,Alosta Brewing Co,b33ZpFpj5fl315fYt51rJg,4.5,152,False
+81,BJs Restaurant & Brewery - West Covina,BJ's Restaurant & Brewhouse,C6X3NrryTmwej0DMbAEYSQ,3.0,969,False
+82,Port O'Pints Brewing Co.,Port O'Pints Brewing,AMVSxfQPBpofjIIQW-Cztw,5.0,81,False
+83,Seaquake Brewing,SeaQuake Brewing,Lzk4yEjugZp643xp3rYrZQ,4.5,290,False
+84,Brewery in Planning - Culver City,The Stalking Horse Brewery & Freehouse,olom_vkNVhqxD4W9BkiUAw,4.0,241,False
+85,Brewery In Planning - Daly City,BJ's Restaurant & Brewhouse,FMGNn9O4yU3HeM2UQ7aM0w,2.5,2142,False
+86,Sudwerk Brewing Co,Three Mile Brewing,R97KzZCN7Z84nr1a1xfv8w,4.5,88,False
+87,Super Owl Brewing,Super Owl Brewing,CurcrRIgCPDiAqLMfrgogw,5.0,37,False
+88,Three Mile Brewing Co,Three Mile Brewing,R97KzZCN7Z84nr1a1xfv8w,4.5,88,False
+89,Inc 82 Brewing,INC 82,2mzkujgqsd-1MvXE5h8CGA,4.0,349,False
+90,Burning Beard Brewing,Burning Beard Brewing Company,PXlbipHx4Yftjj5rQedziA,4.5,100,False
+91,Elevation 66 Brewing Co,Elevation 66 Brewing Co,o59yuuR6TgzA7Au1P5ku9w,4.0,580,False
+92,Progress Brewing,Progress Brewing,62d1H3NAzBe-9tyM9TeqeQ,4.5,317,False
+93,El Segundo Brewing Co,El Segundo Brewing,G-BndQ7xKYFrM9w5vHEusg,4.5,337,False
+94,Tilted Mash Brewery,Tilted Mash Brewing,HxLa279fENqCmGsNoMt4aw,4.5,109,False
+95,Brewery In Planning - Elk Grove,Tilted Mash Brewing,HxLa279fENqCmGsNoMt4aw,4.5,109,False
+96,Flatland Brewing Company,Flatland Brewing Company,6OjRnGBZKGFt2xhseRRUHA,4.5,77,False
+97,Escondido Brewing Company,Escondido Brewing Company,o9AEZNAKtRN5rkO2mST6EQ,4.5,44,False
+98,Plan 9 Alehouse,Plan 9 Alehouse,28HZgHgx3cX3sxrvarJbag,4.0,535,False
+99,Stone Brewing Co,Stone Brewing World Bistro & Gardens - Escondido,eGCM9QgCBlXM81kSo-g5DQ,4.0,4401,False
+100,Paystreak Brewing,Paystreak Brewing,SB98m-d6RtodsGtJu48ZUQ,4.5,13,False
+101,Humboldt Springs Brewing Co,Eel River Brewing,e0MdAqY7jNOMB34PTPVQEg,3.5,483,False
+102,"Lost Coast Brewery and Cafe - Table Bluff Brewing, Inc.",Six Rivers Brewery,JvQDmIXVZwNZNgtdsiCbJg,3.5,479,False
+103,The Booth Brewing Co.,Lost Coast Brewery and Cafe,UlWVQatj76vAG4yYRIsE5A,3.5,903,False
+104,Iron Springs Pub & Brewery,Iron Springs Pub & Brewery,Ad-tZjrBEvTHTvYpD3EpeA,4.0,323,False
+105,Anheuser-Busch Inc 8093 Fairfield,Anchor Brewing Company,nBo7CETnSyrzIoGbRnhuJA,5.0,679,False
+106,Blue Frog Brewing Company,Heretic Brewing Company,QnTu16xTySvm83gFBVzIZw,4.5,253,False
+107,Old Country Brewing,Heretic Brewing Company,QnTu16xTySvm83gFBVzIZw,4.5,253,False
+108,Eel River Brewing Co,Eel River Brewing,e0MdAqY7jNOMB34PTPVQEg,3.5,483,False
+109,Black Magic Brewing,Four Sons Brewing,9iDRETL2JDqSMcf6bFwNkA,4.5,335,False
+110,Jack's Brewing Co,Jack's Brewing Company,wBrZMqhJGFm5tRI_BZPn1Q,3.5,421,False
+111,JP DasBrew,JP DasBrew,LQGA9VdvR73ZWVgCcMeRkA,4.5,155,False
+112,Sequoia Brewing Co - Tower District,Sequoia Brewing Company,jRu90arlNTQwFm_8Iw3G0g,3.5,183,False
+113,Full Circle Brewing Co,Full Circle Brewing Company,-95PA760NLoc332bGRSl5g,3.5,68,False
+114,Tioga-Sequoia Brewing Co,Tioga-Sequoia Brewing Co,YCLZSGrVJrLuoIylpgt6kw,4.5,143,False
+115,Bootleggers Brewery,Bootlegger's Brewery,zCcrt1w6IR7rdn3B7JJqfg,4.5,758,False
+116,Bootleggers Brewery,Bootlegger's Brewery,zCcrt1w6IR7rdn3B7JJqfg,4.5,758,False
+117,River Rock Brewery,River Rock Brewery,CUFGxFs0j5Xw_EnUmDWq6g,4.5,15,False
+118,Golden State Brew and Grill,Golden State Brew & Grill,HS6wqtNmFi6opfa7tndyrA,4.0,47,False
+119,Can Of Worms Brewing,Modern Times DTLA Dankness Dojo,orEgQRCL-LIK0abMPx1beQ,4.0,364,False
+120,Oak Grove Brewing Company,Craftsman Brewing Company,R8queGXz7i3E5K0pthpiNQ,4.5,39,False
+121,Hollister Brewing Co,Hollister Brewing Company,06pNHtxgPhGhZpM0Z2uzNw,3.5,474,False
+122,Draughtsmen Aleworks,Draughtsmen Aleworks,df_UStxBFDYNSd-ngoR1-w,5.0,68,False
+123,Sacrilege Brewing Project,Sacrilege Brewery + Kitchen,GV9hVOrNw9VmMOI00aEjwQ,4.0,222,False
+124,Common Space Brewery,Common Space Brewery,cUay7NfSeinidn--Zz5pQA,4.5,98,False
+125,Los Angeles Ale Works,Los Angeles Ale Works,mbY8HP5NfOKchYI0lhyWIQ,4.5,163,False
+126,Buffalo Bills Brewery,Buffalo Bill's Brewery,thrpZsjW0uuNpq58KibA4w,3.5,1458,False
+127,Bear Republic Brewing Co,Bear Republic Brewing Co.,nq_hOFGmTuxEK3U5T1z5CQ,3.5,361,False
+128,Abigaile,Abigaile,Y3IW_qMHSNXju_qBy6sP1A,4.0,1199,False
+129,Brewery At Abigaile,Abigaile,Y3IW_qMHSNXju_qBy6sP1A,4.0,1199,False
+130,Brewery Twenty Five,Brewery Twenty Five,A6AXeesymzTNEUemKU1RWA,5.0,10,False
+131,Grillin & Chillin Alehouse,Grillin & Chillin Alehouse,g3NiCH3yM3rlszGeHVxIdA,4.0,92,False
+132,Riip Beer Company,Riip Beer Company,UxO-N-Lpu81eaJ1c8XdgcQ,4.5,205,False
+133,Tortugo Brewing Company,Tortugo Brewing,re_0JovwoVJqz8Wdou8Omg,5.0,34,False
+134,Bolt Brewery,Bolt Brewery,ztPRQdlrLqpqwa4fgRNmfA,4.5,228,False
+135,Helix Brewing Co,Helix Brewing,HCWKslmVXfkERfa5Le9tfw,4.5,184,False
+136,Laguna Beach Brewery and Grille,Laguna Beach Brewery & Grille,MysDKNVESFqaJjOAUNOQVA,4.5,321,True
+137,Craft Brewing Company,Craft Brewing Company - Lake Elsinore,7NoLerlhl1KlF9UigFHYvA,4.5,101,False
+138,O'Meara Bros. Brewing Company,O'Meara Bros Brewing Company,MT9skrMJHO6UZAKDtLfW2Q,3.5,175,False
+139,Kinetic Brewing Company,Kinetic Brewing Company,wZv-FrVCNMcJO5ZEGRCckQ,3.5,421,True
+140,Bravery Brewing,Bravery Brewing,XQSf784SErAJeElDCz5duQ,4.5,137,False
+141,Marin Brewing Co,Marin Brewing Company,D8DCqnBoQZBOwRLhyniaUg,3.0,751,False
+142,Bird Street Brewing,Bird Street Brewing,rfVOCMs_aX3h7f1VlZwxIA,4.5,5,False
+143,Dueling Dogs Brewing Company,Crooked Lane Brewing,SPmGIRCuw2y31ODwCS4_3A,4.5,130,False
+144,Altamont Beer Works,Altamont Beer Works,y706MhH80Zw5pU4Y134G8g,4.5,205,False
+145,Eight Bridges Brewing,Eight Bridges Brewing,HjPC2bg4mSbnUEoLS8sNLw,4.0,107,False
+146,Gridlock Brewing Co,Shadow Puppet Brewing Company,tBh4aHBmBT9lnLJFessF5A,4.5,159,False
+147,The Dancing Fox,The Dancing Fox Winery & Brewery,GIudRtQ6v32HaANNl7e-gQ,4.0,635,False
+148,Five Window Beer Co,Five Window Beer Co.,1E4xSbl4i43VlJMdicHu2g,4.5,88,False
+149,Idol Beer Works,Idol Beer Works,BJbLrMAmjxBSWR2Im6CSSw,4.5,40,False
+150,Lodi Beer Company,Lodi Beer Co,J83e_It4o6d66fYQaA0vuw,4.0,737,False
+151,Burnin Daylight Brewing Company,Burnin Daylight Brewing,v3HDsGexoOR_nytSP5COpg,5.0,40,False
+152,Solvang Brewing Company - Lompoc,Solvang Brewing Company,IxRQ7Mez1ezk_sAqd-L46g,3.5,259,False
+153,Long Beach Beer Lab,Long Beach Beer Lab,6WF6l1BuF5UidHV1OF_lIw,4.5,145,False
+154,Rock Bottom Brewery - Long Beach,Rock Bottom Restaurant & Brewery,tvkkbNCzVK8Il08VShv50w,3.0,998,False
+155,Ambitious Ales,Ambitious Ales,1IgoQonsUtErH_yP2HxPUA,5.0,62,False
+156,Ballast Point Brewing Company,Ballast Point Long Beach,THw7jYNlexStDb6YlQ6pzA,3.5,2156,False
+157,Beachwood Blendery,Beachwood Blendery,lmqrYnTlM0Iz9voQRZuP6A,4.5,78,False
+158,Belmont Brewing Co,Belmont Brewing,vRwwkBsXPfa080sq8sa2Lg,3.5,1467,False
+159,Dutch's BrewHouse,Dutch's Brewhouse,20NTj9eVKjDJ3hWViGgReQ,5.0,220,False
+160,Liberation Brewing,Liberation Brewing Co,n5SIvJs9dZfVI5K5vnBl6g,4.5,51,False
+161,Steady Brewing,Steady Brew Beer,HG_JR-qi-Bct_WsmnMwPTw,4.0,39,False
+162,Loomis Basin Brewing Co,Loomis Basin Brewing Company,Ew2H7RfBa9DP1g_w4nWxEw,4.0,134,False
+163,Brewery in Planning - Los Angeles,Mumford Brewing,RBEl2N1T_CeaKJfv79pgew,4.5,257,False
+164,Dry River Brewing,Dry River Brewing,gxnbCwCbOkN6dmM9m0jhOA,4.0,55,False
+165,Iron Triangle Brewing Company,Iron Triangle Brewing Company,p9gJFrwYx_oN-Atfma7rOA,4.0,246,False
+166,6th and La Brea,6th & La Brea Brewery & Restaurant,l96wBEMriHr7RJJM_voP7A,4.0,239,False
+167,Angel City Brewery,Angel City Brewery,i8xm9g5UxDE8mWyiPYAmMg,4.0,1729,False
+168,Arts District Brewing Company,Arts District Brewing Company,zrA3Jo1oQZU7BvQyhKjdDg,4.0,895,False
+169,Boomtown Brewery,Boomtown Brewery,MZ5wjMJJ5o6kptAuRdHcqQ,4.5,347,False
+170,Eagle Rock Brewery,Eagle Rock Brewery,1OC-1qAhidcC66mSEAUnfw,4.5,413,False
+171,Frogtown Brewery,Frogtown Brewery,tIA67yCCCfSG3i82pv6WBA,4.5,94,False
+172,Highland Park Brewery,Highland Park Brewery,Phb4s1elEAxMoo2bqL8zXQ,4.0,113,False
+173,Highland Park Brewery,Highland Park Brewery-Chinatown,tjvpQHWDyWd2xCiFyZ16Eg,4.5,126,False
+174,Karl Strauss Brewing Co - Downtown Los Angeles,Karl Strauss Brewing Company,6zofWBRT3URXShIktlVAxg,4.5,611,False
+175,Lawless Brewing,Wurstküche,KQBGm5G8IDkE8LeNY45mbA,4.0,8048,False
+176,Mumford Brewing Company,Mumford Brewing,RBEl2N1T_CeaKJfv79pgew,4.5,257,False
+177,Ohana Brewing Co,Ohana Brewing Company,lBTC1gIDQ7UjAHeREqOkKw,4.5,155,False
+178,Brewery in Planning - Los Gatos,Loma Brewing Company,cwCVi8ov4i3eJlVUJ6KI6Q,4.0,328,False
+179,Riley's Brewing Co,The Vineyard Restaurant & Bar,XS2qdk6kT9djjMkJWyHC_A,4.0,210,False
+180,Second Son Brews,Second Son Brews,ir2DLaElbFDi3O7HbqRCyw,5.0,5,False
+181,Black Doubt Brewing Company,Black Doubt Brewing Company,zEEVPC_chYbcka7beONLkw,5.0,128,False
+182,Rocksteady Brewing Co.,Creek Monkey Tap House,vuGJh336hFKJ7x35ZfG27A,3.5,496,False
+183,Headlands Brewing Company,Marin Brewing Company,D8DCqnBoQZBOwRLhyniaUg,3.0,751,False
+184,Mill Valley Beer Works,Mill Valley Beerworks,U6ttwbdkN87JDFzHdjNrDQ,3.5,394,False
+185,Hop Secret Brewing Co,Pacific Plate Brewing Company,fCw2-GgQACjsF8N4sUBmMg,4.5,239,False
+186,Pacific Plate Brewing Co,Pacific Plate Brewing Company,fCw2-GgQACjsF8N4sUBmMg,4.5,239,False
+187,Dragon's Tale Brewery,Dragon's Tale Brewery,b0xNFJIqdX0XMeCuhX9FDw,4.5,71,False
+188,Angry Horse Brewing,Angry Horse Brewing,tv-oz1monzw_a--YfXGtVg,4.0,102,False
+189,Alvarado Street Brewery & Grill,Alvarado Street Brewery,6Y96qu_9KXss87_vLZaM8w,4.0,1106,False
+190,Canyon Club Brewery,Crow Canyon Country Club,5Gb28shaOuuH_YpYSXYBrQ,4.0,61,False
+191,El Toro Brewing Company Brewpub,Hermitage Brewery,zYgWuUMdSoHpiB0FQJWB7w,4.5,235,False
+192,Palo Alto Brewing Co,The Tap Room,WIJA1-ebhF5nmzhNDY9sZg,4.0,108,False
+193,Tied House Cafe and Brewery-Mtn View,Tied House Cafe & Brewery,t_1tAImXLDOR1McXGzsvJw,3.5,852,False
+194,Electric Brewing Co,Electric Brewing Co,d_wTAl9W1bfWRUO9m4zsEQ,4.5,117,False
+195,Downtown Joes Brewery and Restaurant,Downtown Joe's Brewery and Restaurant,pP0J1oF56hWLDphcYonrkA,3.5,812,False
+196,Hop Creek Pub,Hop Creek,7J9arBY_k-AOSsqIm3FwVg,4.5,212,False
+197,Napa Palisades Beer Company,Napa Palisades Saloon,UY8NURcfyhrJnYAu68p27Q,4.5,293,False
+198,Silo's,Silo's Napa,tUqxhd8AsNtsHl5BYeNQEw,4.0,67,True
+199,St Clair Brown Winery & Brewery,St Clair Brown Winery & Brewery,m2QHxP8_qJBER5lPDM-Spg,4.5,191,False
+200,Tarla Mediterranean Bar and Grill,Tarla Mediterranean Bar + Grill,xjNZeD0_x__ITsE-VuFQog,4.0,1061,False
+201,The Runway By Patrick,The Runway By Patrick,zXbX-fUShMILBf9Gio0pZQ,4.0,98,False
+202,Trade Brewing,Trade Brewing,_B2EAhUhcMuXzcBZ3sWYxA,4.5,45,False
+203,Ol' Republic Brewery,Ol' Republic Brewery,h_SbPjBLwLbidSGQVK1Vrg,4.0,69,False
+204,Three Forks Bakery & Brewing Company,Three Forks Bakery & Brewing,VhvAgo5Db0neUYwl57N3Cg,4.0,370,False
+205,Sons of Liberty Aleworks,Sons of Liberty Aleworks,3uDM4PAiSu83H-hjo6zWuw,4.5,122,False
+206,Indian Valley Brewing,Indian Valley Brewery,xbcIvVmsf8kZQMFI0zQKoQ,4.5,9,False
+207,Moylan's Brewery & Restaurant,Moylan's Brewery & Restaurant,KY4tWCD8juMRWPQOXkI7XQ,3.5,491,False
+208,Trail Dog Brewing Co.,Lagunitas Brewing Company,nBvdJyM7TCHp5ppX31SC5Q,4.5,1861,False
+209,Woods Bar & Brewery,Woods Bar & Brewery,KbZXUSyEV_Fs7RJ3YQKUaA,4.0,173,False
+210,Ale Industries,Ale Industries,VDZl2iOj3EGV5HN-fZngMw,4.5,169,False
+211,Brewery in Planning - Oakland,Original Pattern Brewing Company,bcVr2lFnEKWwUIR0vGdQrw,4.5,56,False
+212,Diving Dog Brewhouse,Diving Dog Brewhouse,eAFulLji8oHA1FoUCvkLCw,4.0,147,False
+213,Ghost Town Brewing,Ghost Town Brewing,wKWZxIReNVYeMxYXrX7_NQ,4.5,74,False
+214,Independent Brewing Co,Independent Brewing Company,Iy_xI3lmAmlq6ST-lYP94g,4.0,65,False
+215,Old Kan Beer & Co,Old Kan Beer & Co,UCzUo1jxwfTPVfK4ArHUfw,4.5,78,False
+216,Original Pattern Brewing Company,Original Pattern Brewing Company,bcVr2lFnEKWwUIR0vGdQrw,4.5,56,False
+217,Roses' Taproom,Roses’ Taproom,992rcffCJ9rSUJMq-6W37Q,4.0,80,False
+218,Tack Brewing,Jupiter,KoZtPdlNO2jMJ7Zc7I9JVg,4.0,3043,False
+219,Temescal Brewing,Temescal Brewing,KWt08BCv124VQLJ0sw3G3g,4.0,193,False
+220,Woods Beer Company,Woods Bar & Brewery,KbZXUSyEV_Fs7RJ3YQKUaA,4.0,173,False
+221,Dark Sea Cinema And Brewery,Beer Revolution,Y2fiVw61XpDnOSs2yDHfWA,4.5,779,False
+222,Novel Brewing Company,Novel Brewing Company,1rQkpTJcx8bRhKEiKQK0Pg,4.5,109,False
+223,Oceanside Brewing Company,Oceanside Brewing Company,OenOAZcOSZVerWgi9s-w_Q,5.0,112,False
+224,Bagby Beer Company,Bagby Beer Company,s1_WiwjWuuteaSmA5NpZmA,4.0,1089,False
+225,Belching Beaver Brewery,Belching Beaver Brewery - Oceanside,dG-_ImSfE2V0YIsYdGArIA,4.0,68,False
+226,Black Plague Brewing,BLACK PLAGUE Brewing,u6oEHYRz_2AXihHIdShvtA,4.5,132,False
+227,Legacy Brewing Company,Legacy Brewing Co,1P4-QbLtmy2HkVI9F_e9WA,4.0,136,False
+228,Mason Ale Works,Mason Ale Works Tasting Room + Kitchen,xub5A1nIM4o-YAeBWauwcw,4.0,49,False
+229,Northern Pine Brewing,Northern Pine Brewing,PE6xJfY9moo1-orEfDeWjw,4.5,52,False
+230,Midnight Jack Brewing Company,Belching Beaver Brewery - Oceanside,dG-_ImSfE2V0YIsYdGArIA,4.0,68,False
+231,Strum Brewing Company,Strum Brewing Co.,cClTxO6PsQmzV6l_5InYxg,4.5,63,False
+232,Berts Brewing Co.,Docent Brewing,00G4zUZcQSa4CgfPc5X7zA,4.5,275,False
+233,Black Cock Brewing Company,Black Cock Brewing Company,DznebLVFkSwadcmw_NXu8w,4.0,256,False
+234,Chapman Crafted Beer,Chapman Crafted Beer,05KzFVZoHKu7WlduB5ICxQ,4.5,122,False
+235,Feather Falls Brewing Co,Feather Falls Casino Brewing,Uet6-X40R2beBxVt-pCyOg,4.0,82,False
+236,Miner's Alley Brewing Company,Miner's Alley Brewing Company,byObBTThNADnyfwRpdWO2A,4.0,133,False
+237,Red Tandem Brewery,Red Tandem Brewery,EVOKOudjNtxqpsAWjWh1iw,4.0,105,False
+238,Transmission Brewing Company,Joxer Daly's,no0VF_8JR_g3uR1wiQFmMA,4.0,380,False
+239,Craft Artisan Ales,Alvarado Street Brewery,6Y96qu_9KXss87_vLZaM8w,4.0,1106,False
+240,Pedro Point Brewing,Pedro Point Brewing,nCU-Sprs2MWYmtkCWFP0AA,5.0,66,False
+241,Craftsman Brewing Co,Craftsman Brewing Company,R8queGXz7i3E5K0pthpiNQ,4.5,39,False
+242,Dr Jekyll's Craft Beer,Simmzy's,3KMRHU1jo51ngImTqnIgag,4.0,576,False
+243,First Water Brewing Company,Craftsman Brewing Company,R8queGXz7i3E5K0pthpiNQ,4.5,39,False
+244,Toro Creek Brewing Co,Toro Creek Brewing Company,lfdnPTwgem99BpRmCzwZiw,4.5,28,False
+245,Dempsey's Restaurant And Brewery,Dempsey's Restaurant & Brewery,fHj9VL8MmJoM7bbJhVXFHw,3.5,339,False
+246,Lagunitas Brewing Co,Lagunitas Brewing Company,nBvdJyM7TCHp5ppX31SC5Q,4.5,1861,False
+247,Pismo Brewing Co,Pismo Brewing Company,J2xNuiqTAaT1MVmjKDQZHg,3.5,147,False
+248,E.J. Phair Brewing Co.,E.J. Phair Brewing Company,sW44_Mjd-f0LG1aeMIG3Mg,4.0,226,False
+249,Offshoot Beer Co.,The Bruery,CZ-X5V8id_EKZaN2QRCX-g,4.5,951,False
+250,Stereo Brewing Co,Stereo Brewing,Me-wXhlv5dfpI7b2kBTupg,4.5,114,False
+251,"Bruery, The",The Bruery,CZ-X5V8id_EKZaN2QRCX-g,4.5,951,False
+252,Old Hangtown Beer Works,Old Hangtown Beer Works,rlF55BNHjWHKRPmy8hWh5w,4.5,26,False
+253,Outbreak Brewing Co.,Outbreak Brewing,f74D3CXfQ9o6PIAncC7LcA,4.0,45,False
+254,Placerville Brewing Co,Placerville Brewing Company,m-BmIAMknBOqSN6JBxK0fA,3.0,167,False
+255,Amador Brewing Company,Amador Brewing Company,vX5VelDkdfyQeyW1zX8Qrw,4.5,100,False
+256,Old Stump Brewery,Old Stump Brewing Company,8bwGINceLl4bibDyNSO3bg,4.0,199,False
+257,Claimstake Brewing Company,Claimstake Brewing,GufCuu8MfUjrDKwLo4kXig,4.5,108,False
+258,Fort Rock Brewing,Fort Rock Brewing,28kw1ydlZzXSUdvYg3Ad6g,4.0,116,False
+259,Old Hangtown Beer Works,Old Hangtown Beer Works,rlF55BNHjWHKRPmy8hWh5w,4.5,26,False
+260,Brewery in Planning - Rancho Cucamonga,Hamilton Family Brewery,xpe1O6PIIRt_1ziO7YZAYg,4.5,299,False
+261,Kings Brewing Company,Kings Brewing,oqfBRwjlhYO06ff_-gVhXQ,4.5,213,False
+262,No Clue Craft Brewery,No Clue Craft Brewery,GWbrvqBLs_S765Qrtd_D7A,4.0,98,False
+263,Laguna Beach Beer Co,Laguna Beach Beer Company - Rancho Santa Margarita,5Sc2ld3rGayfO865wbN59g,4.5,111,False
+264,Cedar Crest Brewing and Wine Bar,Cedar Crest Brewing,GPvGlaRj8zT4YQr7qlIrNg,4.5,19,False
+265,Final Draft Brewing Company,Final Draft Brewing Company,bRyY-4re52Pg-IFpQBY2BQ,4.0,276,False
+266,Wildcard Brewing Company,Wildcard Brewing Company,URYhPSdHfTyyzqsF_UDUyw,4.5,46,False
+267,Woody's Brewery,Woody's Brewing,ONn_p2HKDThmmXlOWRGlaQ,4.0,446,False
+268,Escape Craft Brewery,Escape Craft Brewery,rrC4pZtI87Y7iB07DozIGw,4.5,143,False
+269,Hangar 24 Craft Brewery,Hangar 24 Craft Brewing,KTQSNF3XH7sx81xe7gwTVw,4.5,607,False
+270,Ritual Brewing Co,Ritual Brewing,XuXEtLvY0-ely7VMnLdXMg,4.5,234,False
+271,King Harbor Brewing Co,King Harbor Brewing Company,BfaZvdMBMoI6M18aT-9brg,4.5,101,False
+272,Origin Brewer,Benoit-Casper Brewing,isa8DWzskevY_4KiOmsemg,4.5,22,False
+273,Heroes Restaurant and Brewery,Heroes Restaurant and Brewery,TRI-OJfrvyZ74rtqlFSFxw,3.5,1657,False
+274,5150 Brewing At The Brass Tap Rocklin,The Brass Tap,rfmLPZgKaaCe5UUJzmR9hA,3.5,136,False
+275,Moksa Brewing Co,Moksa Brewing,jkpjsprIBJYsF8McoyUrVQ,4.0,123,False
+276,Out of Bounds Brewing Company,Out of Bounds Brewing Company,0b7iI2zmljtPbJl7usd_DQ,4.0,231,False
+277,Bear Republic Brewing Co Pub & Restaurant - Lakeside,Bear Republic Brewing Co.,nq_hOFGmTuxEK3U5T1z5CQ,3.5,361,False
+278,Monk's Cellar,The Monk's Cellar,sgsfRKb4RRUhIxqI4giqOA,4.0,745,False
+279,Fountainhead Brewing Co,Fountainhead Brewing Company,9_l2QvWvAODzCAXCyN6I9Q,4.5,62,False
+280,Jackrabbit Brewing Co,Jackrabbit Brewing Company,mWHw3PUu97r5EPCjw2UTJA,4.5,86,False
+281,Track 7 Brewing Co - Natomas,Track 7 Brewing,YhvBVizzC9ja3OBYwlF_0A,4.5,565,False
+282,Urban Roots Brewing,Urban Roots Brewing & Smokehouse,VBpR00rBHev0vguFUkXP9w,4.0,351,False
+283,Alaro Craft Brewery,Alaro Craft Brewery,9s-PNE7hYsTFuIfbnp_IUw,4.0,141,False
+284,At Ease Brewing,The Pizza Press,E0gQQnBzc5AOTVJcKntl-Q,4.0,107,False
+285,Big Sexy Brewing Company,Big Sexy Brewing Company,RYIXtNiu9ZPNrBVau6YQmA,4.5,61,False
+286,Big Stump Brewing Company,Big Stump Brew Company,JJNscmen5hkgYvYjFwOYBg,4.5,134,False
+287,Bike Dog Brewing Co,Bike Dog Brewing Co,a4Ll47rfTNfKOQeB3XeqPQ,4.5,202,False
+288,Device Brewing Company,Device Brewing Company,2j3WSZGdIRl_UY2T8iwcxg,4.0,1,False
+289,Golden Road Brewing Co,Big Stump Brew Company,JJNscmen5hkgYvYjFwOYBg,4.5,134,False
+290,Hoppy Brewing Co,Hoppy Brewing Company,6h7Ilfb3LyOLdyNgz8IqWw,3.0,10,False
+291,King Cong Brewing Company,Bike Dog Broadway Taproom,44WaOPBx66bwl05eEGLYLQ,4.0,66,False
+292,New Glory Craft Brewery,New Glory Craft Brewery,fbQGkj-bbZTH9YlZL7gCWA,4.5,150,False
+293,New Helvetia Brewing Company,New Helvetia Brewing Company,yXpayno4Ve6WY8jyEB60Jw,4.0,216,False
+294,Oak Park Brewing Co,Oak Park Brewing Company,VAV2rqFVjsNo0gS_Z57wFw,3.5,555,True
+295,Ruhstaller Beer,Ruhstaller Beer,Gz-vlPOjuhmtXuApJRqrQg,4.5,123,False
+296,Blue Oak Brewing Co,Blue Oak Brewing Company,lCLVMhfyBhzihMfK-9e19A,4.5,62,False
+297,Devil's Canyon Brewing Company,Devil's Canyon Brewing Company,HIuzK5dxPnErpYTt0LVnFw,4.0,160,False
+298,Left Coast Brewing Co.,Left Coast Brewing Company,o4Qp5Y3vNv0mxB_C3IwijQ,4.5,121,False
+299,Pizza Port San Clemente,Pizza Port,oLiXTG2rMeMJyjJgH-dguw,4.0,825,False
+300,Abnormal Beer Company,Abnormal Beer Company,J5XV_N6pu6TNVQwVYfxS9Q,5.0,6,False
+301,Brewery in Planning - San Diego,Mission Brewery,iklaPUIKWq26LUJv7e681w,4.5,675,False
+302,Eppig Brewing,Eppig Brewing,QLODIRR2LozK43SpaXwBug,4.5,98,False
+303,Mike Hess Brewing - Miramar,Mike Hess Brewing Company,7KWYNITYigID03T07uO6vw,4.5,186,False
+304,New English Brewing Co Inc,Societe Brewing Company,i0z5qviFAZe5knHFwSIYSg,4.0,600,False
+305,Stone Brewing World Bistro & Gardens- Liberty Station,Stone Brewing World Bistro & Gardens - Liberty Station,7o_XZUi0pBQldtxOgbjSwA,3.5,1983,False
+306,Thunderhawk Alements,Thunderhawk Alements,XjzSxP-UpB4FxkZ25BOMkg,4.5,55,False
+307,Alta Brewing Company,Alta Brewing Co,qYzSjAi0uYTAy7Kc6cdv_g,4.5,27,False
+308,10 Barrel Brewing Co,10 Barrel Brewing - San Diego,8nEOrZJXEPbB7omJwyM1JQ,4.5,356,False
+309,2Kids Brewing Company,2kids Brewing Co,8WhmaCOxMwI4C0GUN8xIng,4.0,86,False
+310,Align Brewing Co,Align Brewing Company,oRklvAfkXZIfStflDPHSKg,4.5,17,False
+311,Amplified Ale Works,Amplified Ale Works,Q1jUmb6EDtpB9TZdRrzB6A,4.0,850,False
+312,Ballast Point Brewing Company,Ballast Point Miramar,1Zx3bCuu7e8Wg2qxCKW6nA,4.0,1808,False
+313,Ballast Point Brewing Company,Ballast Point Miramar,1Zx3bCuu7e8Wg2qxCKW6nA,4.0,1808,False
+314,Clayton Brewing Co,Arrow Lodge Brewing,_rnOwGTo9a9sXBYROMHaHQ,4.0,143,False
+315,San Fernando Brewing Co.,San Fernando Brewing Company,9Pb8AbX0UPCcNQ-1Kj4bsw,4.5,202,False
+316,Black Hammer Brewing,Black Hammer Brewing,eDP8OzpjR1d1HTsg85Bntw,4.5,312,False
+317,Fort Point Beer Company,Fort Point Beer,jko3-lJUDaN0KCMHs-1xGQ,4.5,83,False
+318,Magnolia Dogpatch,Magnolia Dogpatch,l8bcDyjM3LlYbCkuC7eEXA,3.5,52,False
+319,Sufferfest Beer Company,Arthur Mac's Tap and Snack,Ir7DYLrNK3nGQzyB0H96Hw,4.0,227,False
+320,Woods Cerveceria,Woods Cervecería,dlDdlCew3UHfKlKNOtNHPw,4.0,193,False
+321,Beach Chalet Brewing Co,Park Chalet Coastal Beer Garden,g2PCC7_4ciQbxiMRlFGAeQ,3.0,1292,False
+322,21st Amendment Brewery Cafe,21st Amendment Brewery,2FhkLW_EwD-CwOzteklkIA,3.5,2426,False
+323,47 Hills Brewing Co,47 Hills Brewing Company,l8k215ZAfPgSOF9ULhHFow,4.5,151,False
+324,Anchor Brewing Co,Anchor Brewing Company,nBo7CETnSyrzIoGbRnhuJA,5.0,679,False
+325,Barebottle Brewing Company,Barebottle Brewing Company,bur2BvDqSvgz0xEBe8HGmg,4.5,347,False
+326,Barrel Head Brewhouse,Barrel Head Brewhouse,TCaagQVqECB97vJAs4t9Mg,4.0,510,False
+327,Bartlett Hall,Bartlett Hall,PqeHQAMWUWzyL8qsmHltoQ,3.5,802,False
+328,Black Sands Brewery,Black Sands,kIjsWd9EcPgp_wsZjKTDTg,3.5,285,False
+329,Brewery in Planning - Calistoga,Downtown Joe's Brewery and Restaurant,pP0J1oF56hWLDphcYonrkA,3.5,812,False
+330,Cellarmaker Brewing Company,Cellarmaker Brewing Company,lvi8XsOdYTz2K3vhCCwe5Q,4.5,431,False
+331,Harmonic Brewing,Harmonic Brewing,nCWnWdwrDf1iSm0qyJHCug,4.5,126,False
+332,K-Oz Restaurant Brewery,K-OZ Restaurant and Brewery,qIJwRdHtHbQQzZsBkWwy1Q,3.5,100,False
+333,Ogopogo Brewing,Ogopogo Brewing,Txwg0QihaEEEUbGfudDJVA,5.0,77,False
+334,Hermitage Brewing Company,Hermitage Brewery,zYgWuUMdSoHpiB0FQJWB7w,4.5,235,False
+335,Ale House Brewing Co,Camino Brewing Co,AkmxzdiNMTtkykYj8NU8hw,4.5,81,False
+336,Bison Brewing Co,Rock Bottom Restaurant & Brewery,pMO-6M6SqhaukFJtzUWTzw,3.0,1406,False
+337,Gordon Biersch Brewing Co,Gordon Biersch Brewing Company,xCiBQ0LFquC2yVwEymQl3w,4.5,61,False
+338,Hapa's Brewing Company,Hapa's Brewing Company,zOSaawR2dgFrihyZofy6ZA,4.5,235,False
+339,Moksha Beer,DOSA on Fillmore,U1TgSEKZwgdTftTOxCtFOQ,4.0,2921,False
+340,Santa Clara Valley Brewing,"Santa Clara Valley Brewing, Inc",qqRJCegJ6XWiXHmQTtIoBA,4.0,87,False
+341,South Bay Brewco,Half Moon Bay Brewing Company,0i9jcPfTpqGVtss0zGGCIQ,3.5,1738,False
+342,Uproar Brewing,Uproar Brewing Company,ktQlyhPUWjM8A8hJk61Ogw,4.0,264,False
+343,Whole Foods Market Brewing Company- Floodcraft Brewing,Whole Foods Market,sxO97hM8SveUJp8hiOrJJQ,4.0,401,False
+344,Cleophus Quealy Beer Company,Cleophus Quealy,1vFcD2jTtLeIqkCGzuS_zw,4.5,125,False
+345,Dr Hops Kombucha Beer,Sierra Nevada Torpedo Room,MiliA5YETxsWxr4zQitEgQ,4.5,247,False
+346,7 Sisters Brewing Co,Tap It Brewing,Cy2r8Wzj0tYPTompjNY8nQ,4.5,100,False
+347,Libertine Brewing Company,Libertine Brewing Company,N75q1fYGBEd1DCTnw_VDRA,4.0,185,False
+348,Underground Brewing Co.,Underground Brewing Co.,Jwn4fyDpzjCYTDbv9MIS6Q,4.5,67,True
+349,Bang the Drum Brewery,Bang The Drum Brewery,knCHYQsIMfWzIDMeYmwfmA,4.0,114,False
+350,Central Coast Brewing Co - Higuera St.,Central Coast Brewing,a79PKJkJw0-agf3rZEsIFA,4.5,233,False
+351,SLO Brewing Co,SLO Brew,R0o4dxEqtgFu6VSknrbbBQ,3.5,370,False
+352,There Does Not Exist,Madonna Inn,w9BOHQoj8rVCwimdH-nPWQ,4.0,1119,False
+353,Port Brewing Co / The Lost Abbey,The Lost Abbey,l6UMwsi0NnAX3Tm6ru7aGw,4.0,483,False
+354,Dos Desperados Brewery,Dos Desperados Brewery,ynTCuV97IWdSYSHHWU1jiA,4.5,90,False
+355,Stumblefoot Brewing,Stumblefoot Brewing Company,XRAC_nTqFiU3vFKZnfSnCw,4.0,107,False
+356,Urge Gastropub & Common House/Mason Ale Works,Urge Gastropub & Common House,HbenatMYM8QAv1HkkslKVw,3.5,546,False
+357,Wild Barrel Brewing Company,Wild Barrel Brewing,cyxtFys5AkKddBr-xQ6p8A,4.5,151,False
+358,State Room Brewery,State Room,DtoeXGzL9g6IiJMfQkTcBQ,4.0,366,False
+359,Canyon Lakes Golf Course & Brewery,Canyon Lakes Golf Course,fMyo6UL1FKhuoTk4aLmr2A,3.5,80,False
+360,House Of Pendragon Brewing Co,House of Pendragon Brewing,eN2Xlrt40vm0ni9HFZPi1Q,4.5,106,False
+361,Deans Brothers Brewing Co.,Docent Brewing,00G4zUZcQSa4CgfPc5X7zA,4.5,275,False
+362,Network Brewery,Network Brewery,HzxLLWpSlMzEJAupmHfhFw,4.5,107,False
+363,Old 290 Brewery,BJ's Restaurant & Brewhouse,I2mhPqjE6occH5R_qxXg4w,3.0,717,False
+364,"The Good Beer Company, Inc.",BJ's Restaurant & Brewhouse,qsB5M-VDw0n93IKnOXpQSA,3.0,1108,False
+365,Pure Order Brewing Co,Pure Order Brewing,Tw5tderBUFzj7fRLVZm2Bg,4.5,78,False
+366,Santa Barbara Brewing Co,Santa Barbara Brewing Co,KC8_Rx4Orlsz8LIonCYXsA,3.5,654,True
+367,Telegraph Brewing Co,Telegraph Brewing Company,T0TAXNzN7oY1wRC8jslTjw,4.0,133,False
+368,The Brewhouse,The Brewhouse,FTFaEinJgzqY0ZHQMUSpQQ,3.5,650,False
+369,Golden State Brewery,Golden State Brewery,e_Ay9SwB3Lmn2srg7I6xTA,4.5,154,False
+370,Taplands Brewery,Taplands,xFbceEJZeM_ViNnpbV3kaw,4.5,202,False
+371,Pocock Brewing Company,Pocock Brewing Company,551OtNLPBcrCbXy7o23L-g,4.5,111,False
+372,Shanty Shack Brewing,Shanty Shack Brewing,dUn_IxzAw_t5QWFj2g-5Aw,4.5,62,False
+373,East Cliff Brewing Company,East Cliff Brewing Company,1MRbxbLHItRgSmYBtvsFig,4.5,63,False
+374,Humble Sea Brewing Co,Santa Cruz Mountain Brewing,T_GBdBFFH88wtAv335itrw,4.0,374,False
+375,New Bohemia Brewing Co,New Bohemia Brewing Company,tz0E0sI5sy0Fwh81ZJbxGw,4.5,123,False
+376,Coastal Star Brewing Company,Firestone Walker Brewing- Buellton,6CvGrXTNIps_YOklbEmcJg,4.0,612,False
+377,Steele and Hops Public House,Steele & Hops,iqhfwrMxzWz3skCn_d-Npg,4.0,277,False
+378,2 Tread Brewing Co,Old Possum Brewing Co.,TQOWLWuSbBjaNI4pyZRBNw,4.0,42,False
+379,Fogbelt Brewing Co,Fogbelt Brewing Company,tS2uPp6qbMDPWIQeS6ZXcA,4.0,237,False
+380,HenHouse Brewing,HenHouse Brewing Company,3VDUOLsgzPWcmB5j5CJrgw,4.5,175,False
+381,Old Possum Brewing Company,Old Possum Brewing Co.,TQOWLWuSbBjaNI4pyZRBNw,4.0,42,False
+382,Plow Brewing Company,Plow Brewing Company,O__keAIl8YnHInwzOSi1kw,4.5,58,False
+383,Russian River Brewing Co,Russian River Brewing,vvFI4RMZD8ghnzaVu0zmeg,4.0,2911,False
+384,Russian River Brewing Co - Production,Russian River Brewing,vvFI4RMZD8ghnzaVu0zmeg,4.0,2911,False
+385,Seismic Brewing Co,Creek Monkey Tap House,vuGJh336hFKJ7x35ZfG27A,3.5,496,False
+386,Third Street Aleworks,Third Street AleWorks BrewPub,vHaFYLNaV2NYcqo-uH1stA,3.5,609,False
+387,Yeti Restaurant,Yeti Restaurant,HxVCBANUOGlLWkiHEnyH0Q,4.0,180,False
+388,Shady Oak Barrel House,Shady Oak Barrel House,dxJC89nAthvOL07Inue9Sg,4.5,12,False
+389,Council Brewing Company,Council Brewing Company,RKyEAn0Ql0NaJUSjRx0k6Q,4.5,13,True
+390,Groundswell Brewing Co,Groundswell Brewing Company,OnKi06PzjXEa_4QDBU2DDg,4.0,24,False
+391,3 Disciples Brewing,3 Disciples Brewing,IJWknsSehEbX1_LWrfBzNg,4.0,22,False
+392,California Cider Co.,Whole Foods Market,3PFlZW1NUqPTHkur31SAqg,3.0,88,False
+393,Woodfour Brewing Company,Woodfour,xoVDnHUI0fB6deU1T8QYgg,3.5,314,False
+394,Ten Mile Brewing,Ten Mile Brewing,RgNkkAY_ZoD3CVT60pkAtQ,4.5,175,False
+395,Pizza Port Solana Beach,Pizza Port Solana Beach,Dufn2sTES6eKdnMGv7gV0Q,4.0,1375,False
+396,Solvang Brewing Co,Solvang Brewing Company,VXs5-rKrlP6qlHQtVpIqng,3.5,1201,False
+397,Sonoma Springs Brewing Co,Sonoma Springs Brewing Company,EeLQR1aj4vReei1XilbpLw,4.0,44,False
+398,Sonoma Grille,Sonoma Grille,4iqSzhA0rvJw8hhW--nHgg,4.0,260,False
+399,Progress Brewing,Progress Brewing,62d1H3NAzBe-9tyM9TeqeQ,4.5,317,False
+400,South Lake Brewing Company,South Lake Brewing,ocQt8Ey9ws_zUMyI0FvTfA,4.5,129,False
+401,Brewery At Lake Tahoe,Brewery At Lake Tahoe,sIqOqgtndY9n5RXSu-Zkjw,3.5,740,False
+402,Outpost Brewing Co,South of North Brewing,zSQcRcTdainEdNHkQihF4g,4.5,41,False
+403,Sidellis Lake Tahoe,Sidellis Lake Tahoe,Oq2WrrFmOZnooCHvamYasA,4.5,191,False
+404,Cold Water Brewery and Grill,Cold Water Brewery and Grill,dY-hphn5dOAKEtlv0WbaCg,4.0,818,False
+405,Lake Tahoe AleWorX,Lake Tahoe AleWorX,-mhW_lp-SjCqVEJlSOk6Rw,4.0,366,False
+406,47 Hills Brewing Co,47 Hills Brewing Company,l8k215ZAfPgSOF9ULhHFow,4.5,151,False
+407,High Water Brewing,High Water Brewing,tAqmWx5GyR5RPR4g3VUU7g,5.0,4,True
+408,Channel Brewing Co.,Channel Brewing Company,QzPYps1WRF2BJM3p7t7FLg,4.0,38,False
+409,Right Eye Brewing Co,Right Eye Brewing Company,Q16BANtGPSwRukKYGfUJgA,4.0,64,True
+410,Faultline Brewing Co,Faultline Brewing Company,7nJZeLBxqcqH4-xzvXUMAw,3.0,965,False
+411,Firehouse Grill & Brewery,Firehouse Grill and Brewery,ywjEihEgqpPHxGvaeY8pLA,2.5,786,True
+412,Red Branch Brewing Company / Rabbits Foot Meadery,Red Branch Cider Company,aUoNxt365saxHS_8V3d2Cw,4.5,16,False
+413,Lassen Ale Works @ The Pioneer Saloon,Lassen Ale Works,381vEQPKTZjX8vykg_rLmw,4.0,293,False
+414,Black Gold Brewing Co,Black Gold Brewing Company,oBkDRGdSgOHKWPwL82eSew,4.0,58,False
+415,Aftershock Brewing Co,Aftershock Brewing,LSBHN3k4gC-ZHthTndsNBg,4.5,179,False
+416,Karl Strauss Brewing Co,Karl Strauss Brewing Company,dM_SLFVmMMg0mrJTfY58TQ,4.5,975,False
+417,Westlake Brewing & Libation,Westlake Brewing & Libations,oXdadbdCq9rnShsxAEfcxQ,4.0,95,False
+418,Absolution Brewing Co,Absolution Brewing Company,t9lMsGTZvUA8WzI__ByPcA,4.0,280,False
+419,Cosmic Brewery,Cosmic Brewery,a8IDCwE9e_LutPaPy5QQ2Q,4.0,107,False
+420,Dudes' Brewing Co,The Dudes' Brewing Company,PvYuqkCIZIGANu062CNSqQ,4.0,341,False
+421,Monkish Brewing Co,Monkish Brewing,dXf2WL8hy1O1sf8cSdr4MQ,4.5,584,False
+422,Red Car Brewery and Restaurant,Red Car,yqgFXOwuFeKtkaS13YafFw,3.5,462,False
+423,Scholb Premium Ales,Scholb Premium Ales,RRr8WM9-tTUDH1xSN56tzQ,4.5,129,False
+424,Smog City Brewing Wood Cellar,Phantom Carriage Brewery,x5Qt08wnTKU7_VmGin7k7w,4.5,547,False
+425,Strand Brewing Co,Strand Brewing,rK1hEGYnvTOF4z6CrgBo9g,4.5,177,False
+426,Yorkshire Square Brewing Co.,Strand Brewing,rK1hEGYnvTOF4z6CrgBo9g,4.5,177,False
+427,Zymurgy Brew Works,Zymurgy Brew Works & Tasting Room,VqYY3fw4ksS4vLCUu6GrTQ,5.0,69,False
+428,HopSaint Brewing Company,HopSaint Brewing,2n4M8j-ZzkfnDdQzA5NB_w,4.0,638,False
+429,Morgan Territory Brewing,Morgan Territory Brewing,PiwCa8917r7voSmV_4ITGg,4.5,76,False
+430,FiftyFifty Brewing Production Facility,Fifty Fifty Brewing,I7yF2BD6OswUfmpvLhighw,3.5,578,False
+431,Kaweah Brewing Co.,BarrelHouse Brewing - Visalia,FFxyZxuZ9he64PZqr8zW9g,4.0,78,False
+432,Dust Bowl Brewing Co,Dust Bowl Brewery Taproom,NeovfBbeK7Hz3DxUyn8U9g,3.5,624,False
+433,Archaic Craft Brewery At Centro,Centro,DKcSNybzGswjHLNalKF2Pg,4.5,407,False
+434,TAPS Brewery and Barrel Room,TAPS Brewery & Barrel Room,TFRRRzkUL4y6wMWxg8b28w,4.5,114,False
+435,Ukiah Brewing Co,Ukiah Brewing Company & Restaurant,yrnFjW33hpU3Q3RDkCMHvw,4.0,226,False
+436,Rescue Brewing Co,Rescue Brewing,Qieow56f1qPKRXD0Ejsz8w,4.5,122,False
+437,Brewery In Planning - Vacaville,Heretic Brewing Company,QnTu16xTySvm83gFBVzIZw,4.5,253,False
+438,Napa Smith Brewery,Napa Smith Brewery,fHODrr6F1xy9QloKGJFYzw,4.5,65,False
+439,Mare Island Brewing Co.,Mare Island Brewing Co - Coal Shed Brewery,PrIuZmUgFd8kVJdPTAQhSg,4.5,10,False
+440,Topa Topa Brewing Co,Topa Topa Brewing Company,k4botUuCbpaHLLX6C3sKwQ,4.5,176,False
+441,Anacapa Brewing Co,Anacapa Brewing,jRHjyncSn7KyQ6_SAz0wWQ,4.0,459,False
+442,Brewery in Planning - Ventura,Ventura Coast Brewing,7-18hDIQaFTxnUjl0xDBHA,4.5,111,False
+443,Leashless Brewing,Leashless Brewing,2lElvqfxcK_KY9QRIIxY0w,4.0,93,False
+444,Madewest Brewing Company,MadeWest Brewing Company,hhCUi6p4Do0Y4zG8KiAJPA,4.5,160,False
+445,Smoke Mountain Brewery,Rincon Brewery,wupvqueqdEZXQxv14sa9vw,4.0,345,False
+446,Ventura Coast Brewing Company,Ventura Coast Brewing,7-18hDIQaFTxnUjl0xDBHA,4.5,111,False
+447,Brewbakers Brewing Co,Brewbakers Brewing Company,zD69vO3GNEWdOYW0qfbmbQ,4.0,383,False
+448,Chula Vista Brewery,Chula Vista Brewery,IKh9OtEzdi5ZzcrcYVKmJQ,4.0,75,False
+449,Barrel Harbor Brewing Co.,Belching Beaver Pub980,69z9BEk7CgzD591_rnyGHQ,4.5,417,False
+450,Battlemage Brewing Co,BattleMage Brewing Company,AGy7cpVej1GKosa-5gRqzg,5.0,90,False
+451,Bear Roots Brewing Company,Bear Roots Brewing,hPjheHybKZYyXSGSXaCTnA,4.5,175,False
+452,Belching Beaver Brewery Tavern & Grill,Belching Beaver Brewery Tavern & Grill,HeJvl-Y5-wcTenDkVJkj7A,4.0,642,False
+453,Booze Brothers Brewing Co.,Booze Brothers Brewing,9-UBV0-7LG2ZykfKcEoKvg,4.5,241,False
+454,Indian Joe Brewing,Indian Joe Brewing,VZx02z-fhiweSpiVkLOEXQ,4.5,140,False
+455,Latitude 33 Brewing Co,Belching Beaver Pub980,69z9BEk7CgzD591_rnyGHQ,4.5,417,False
+456,Novo Brazil Brewing Company,Novo Brazil Brewing,mzqla2kg86jgzkB_UVYv-w,4.0,215,False
+457,Prohibition Brewing,Prohibition Brewing,C1N6npBd2E7Y5ldhi61LiQ,4.0,550,False
+458,Thr3e Punks Ale,Thr3e Punk Ales Brewing Co,SAlAwc1CFsJ3jSh_Jwm2Ww,4.5,66,False
+459,Toolbox Brewing Company,Toolbox Brewing Company,eHD82TMtMhL74xKqCWT9iA,4.0,145,True
+460,Wavelength Brewing Company,Wavelength Brewing Company,wjn7xGazAbrw6QUDuSFRUQ,4.5,158,False
+461,Corralitos Brewing Co,Corralitos Brewing Company,AFpVlICbD7EZVm36drWEKA,4.5,75,False
+462,Mount Shasta Brewing Co,Mount Shasta Brewing,yVp2cM6DqI3-ETNw7mnEUg,3.5,190,False
+463,BJs Restaurant & Brewery - West Covina,BJ's Restaurant & Brewhouse,C6X3NrryTmwej0DMbAEYSQ,3.0,969,False
+464,Jackrabbit Brewing Co,Jackrabbit Brewing Company,mWHw3PUu97r5EPCjw2UTJA,4.5,86,False
+465,Bike Dog Brewing Co,Bike Dog Brewing Co,a4Ll47rfTNfKOQeB3XeqPQ,4.5,202,False
+466,Yolo Brewing Co,YOLO Brewing Company,b-A6c0QzlXGSxuURtKxM9Q,4.0,152,False
+467,Five Threads Brewing Company,Five Threads Brewing Company,q7SUOmNzFwWJb2bXDNHiNw,4.5,137,False
+468,Sundowner Brewing Co.,MacLeod Ale Brewing,EhsJ0qjWpY93RZQA9GfzIA,4.5,372,False
+469,14 Cannons Brewing Company,14 Cannons,Mu16z_XkqGs20uPqxFy1kA,4.5,74,False
+470,LA Bodega Brewing Co,Modern Times DTLA Dankness Dojo,orEgQRCL-LIK0abMPx1beQ,4.0,364,False
+471,Stadium Pizza - Murrieta,Angelos Brick Oven Pizzeria,HUpzpTYbcBFea_gf5edrpA,4.5,384,False
+472,Blue Note Brewing Company,Blue Note Brewing Company,Hpn5v1hu489xqzaN8cLVrA,4.5,85,False
+473,Fireman's Brew,Fireman's Brew,4nh4di7RA6Z6TEZk7oTleA,1.0,1,False
+474,Paperback Brewing Company,Barnes & Noble,WNGjlIB_yn5cnMNgNLoUjw,3.5,146,False
+475,The Blue Poppy Brewery,JT Schmid's Restaurant & Brewery,5VN-ELqi93lON-7jTH3RtA,3.0,663,False
+476,Sutter Buttes Brewing,Sutter Buttes Brewing,LK7JvbXE-dUwcLTJyuCPCw,4.0,355,False
+477,Brewcaipa Brewing Co.,Tuscano's & BrewQuinta,QdLSgVIJ1-FxpK_Jtk8i6w,4.5,68,False
